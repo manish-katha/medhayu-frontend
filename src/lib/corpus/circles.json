@@ -1,0 +1,72 @@
+
+[
+  {
+    "id": "clinical-skin-disorders",
+    "name": "Skin Disorders (Kṣudra Roga)",
+    "description": "A group for Vaidyas specializing in the treatment of dermatological conditions through Ayurveda.",
+    "type": "personal",
+    "category": "clinical",
+    "ownerId": "researcher@vakyaverse.com",
+    "avatarUrl": "/media/skin-disorders-circle.png",
+    "members": [
+      {
+        "userId": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "admin"
+      },
+      {
+        "userId": "user-2",
+        "name": "Jane Doe",
+        "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "role": "reader"
+      }
+    ],
+    "requests": [],
+    "createdAt": 1751800000000
+  },
+  {
+    "id": "shastra-charaka-sutra",
+    "name": "Charaka Samhita Sutra Paath",
+    "description": "A study circle dedicated to the systematic reading and interpretation of the Sutrasthana of Charaka Samhita.",
+    "type": "personal",
+    "category": "shastra",
+    "ownerId": "researcher@vakyaverse.com",
+    "avatarUrl": "/media/charaka-circle.png",
+    "members": [
+       {
+        "userId": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "admin"
+      }
+    ],
+    "requests": [],
+    "createdAt": 1751700000000
+  },
+  {
+    "id": "institutional-bams-alumni",
+    "name": "BAMS College Alumni",
+    "description": "An institutional circle for the alumni of the National Institute of Ayurveda.",
+    "type": "organization",
+    "category": "institutional",
+    "ownerId": "researcher@vakyaverse.com",
+    "avatarUrl": "/media/alumni-circle.png",
+    "members": [
+       {
+        "userId": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "admin"
+      },
+      {
+        "userId": "user-3",
+        "name": "John Smith",
+        "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "role": "reader"
+      }
+    ],
+    "requests": [],
+    "createdAt": 1751978702897
+  }
+]

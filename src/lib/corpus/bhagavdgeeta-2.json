@@ -1,0 +1,31 @@
+{
+  "bookId": "bhagavdgeeta-2",
+  "bookName": "Bhagavdgeeta 2",
+  "categoryId": "itihasa",
+  "subtitle": "Bhagavadgeeta 2",
+  "description": "<p>test</p>",
+  "shortDescription": "",
+  "authorName": "",
+  "coverUrl": "https://placehold.co/800x400.png",
+  "profileUrl": "https://placehold.co/400x600.png",
+  "publisher": "",
+  "isbn": "",
+  "designer": "",
+  "subject": "shastra-samhita",
+  "chapters": [],
+  "structure": {
+    "sourceTypes": [
+      "shloka"
+    ],
+    "commentaryTypes": [
+      "vyakhya"
+    ]
+  },
+  "visibility": "private",
+  "circleIds": [],
+  "isAnnounced": false,
+  "volumeInfo": {
+    "seriesName": "bhagavdgeeta",
+    "volumeNumber": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "bookId": "simple",
+  "bookName": "simple",
+  "categoryId": "itihasa",
+  "subtitle": "1",
+  "description": "<p>simple book</p>",
+  "shortDescription": "",
+  "authorName": "",
+  "coverUrl": "https://placehold.co/800x400.png",
+  "profileUrl": "https://placehold.co/400x600.png",
+  "publisher": "",
+  "isbn": "",
+  "designer": "",
+  "subject": "puranic-grantha",
+  "chapters": [],
+  "structure": {
+    "sourceTypes": [
+      "shloka"
+    ],
+    "commentaryTypes": [
+      "vyakhya"
+    ]
+  },
+  "visibility": "private",
+  "circleIds": [],
+  "isAnnounced": false
+}

@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "uncategorized",
+    "name": "Uncategorized",
+    "quotes": [
+      {
+        "id": "30e84c1d-be3c-492f-86ea-8ad085add75f",
+        "title": "Nature of reality",
+        "quote": "The whole creation is made up of trio. The three elements of the nature unite as trio create this Triatic creation. ",
+        "author": "Acharya Mahanidhi"
+      },
+      {
+        "id": "0fcff853-821b-439c-b938-e49d1ba7554c",
+        "title": "testing",
+        "quote": "हास्यशीलतावृद्धये च इयं रचना किञ्चित्करी चेत् अयं लेखकः कृतार्थः नूनम् । ",
+        "author": "Gurunatha ji"
+      },
+      {
+        "id": "quote-1753791796551",
+        "quote": "भिषक्शिरोमुकुटमणिर्जयपालः",
+        "author": "Acharya Mahanidhi",
+        "source": "Charaka Samhita",
+        "categoryId": "uncategorized"
+      },
+      {
+        "id": "example-quote-1",
+        "title": "Bannanje Acharya on Trivrut",
+        "quote": "The world is made up of Trivrut."
+      }
+    ]
+  }
+]

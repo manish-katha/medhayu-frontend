@@ -1,0 +1,21 @@
+{
+  "id": "new",
+  "name": "new",
+  "author": "aa",
+  "description": "",
+  "categoryId": "kavya",
+  "bookId": "new",
+  "bookName": "new",
+  "chapters": [
+    {
+      "name": "new",
+      "topic": " cfv",
+      "id": "new-1753852926085",
+      "articles": [],
+      "children": []
+    }
+  ],
+  "ownerId": "researcher@vakyaverse.com",
+  "visibility": "private",
+  "isAnnounced": false
+}

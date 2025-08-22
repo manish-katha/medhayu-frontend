@@ -1,0 +1,50 @@
+
+[
+  {
+    "id": "evt-1753692111298",
+    "title": "International Conference on Rasashastra",
+    "category": "Seminar",
+    "description": "A three-day international seminar exploring the advancements in Ayurvedic metallurgy and mineral-based formulations. Featuring keynote speakers from renowned institutions.",
+    "startDate": "2025-08-15T09:00:00.000Z",
+    "endDate": "2025-08-17T17:00:00.000Z",
+    "location": {
+      "type": "Physical",
+      "address": "Banaras Hindu University, Varanasi, India"
+    },
+    "departmentTag": "Rasashastra",
+    "posterUrl": "https://placehold.co/800x1200/c4913f/FFFFFF/png?text=Rasashastra+Conference",
+    "primaryAuthor": {
+      "id": "researcher@medhayu.com",
+      "name": "Admin User",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "collaborators": [
+      {
+        "id": "user-2",
+        "name": "Jane Doe",
+        "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "rsvps": []
+  },
+  {
+    "id": "evt-1753692111299",
+    "title": "Online Workshop on Nadi Pariksha",
+    "category": "Online Webinar",
+    "description": "An interactive online workshop focusing on the practical techniques of pulse diagnosis (Nadi Pariksha). Limited seats available.",
+    "startDate": "2025-09-05T14:00:00.000Z",
+    "endDate": "2025-09-05T18:00:00.000Z",
+    "location": {
+      "type": "Virtual",
+      "url": "https://zoom.us/j/1234567890"
+    },
+    "departmentTag": "Roga Nidan",
+    "posterUrl": "https://placehold.co/800x1200/678b61/FFFFFF/png?text=Nadi+Pariksha+Webinar",
+    "primaryAuthor": {
+        "id": "user-2",
+        "name": "Jane Doe",
+        "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "rsvps": []
+  }
+]

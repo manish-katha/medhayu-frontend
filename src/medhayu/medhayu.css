@@ -1,0 +1,144 @@
+
+.medhayu-module-container {
+    --background: 40 50% 98%;
+    --foreground: 24 9.8% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 24 9.8% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 24 9.8% 10%;
+    --primary: 25 95% 53%; /* Deep Saffron */
+    --primary-foreground: 24 9.8% 10%;
+    --secondary: 30 5% 90%;
+    --secondary-foreground: 24 9.8% 10%;
+    --muted: 30 5% 90%;
+    --muted-foreground: 24 3.8% 46.1%;
+    --accent: 45 76% 56%; /* Muted Gold */
+    --accent-foreground: 24 9.8% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --success: 145 63% 49%;
+    --success-foreground: 0 0% 100%;
+    --info: 214 90% 55%;
+    --border: 30 5% 85%;
+    --input: 30 5% 85%;
+    --ring: 25 95% 53%;
+    --body-bg-color: 60 30% 96%; /* Light Beige */
+}
+
+.dark .medhayu-module-container {
+    --background: 40 5.6% 12%;
+    --foreground: 0 0% 95%;
+    --card: 40 4.2% 16.1%;
+    --card-foreground: 0 0% 95%;
+    --popover: 40 5.6% 12%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 25 95% 53%; /* Deep Saffron */
+    --primary-foreground: 24 9.8% 10%;
+    --secondary: 40 4.2% 16.1%;
+    --secondary-foreground: 0 0% 95%;
+    --muted: 40 4.2% 16.1%;
+    --muted-foreground: 40 3.7% 62.9%;
+    --accent: 45 76% 56%; /* Muted Gold */
+    --accent-foreground: 24 9.8% 10%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 95%;
+    --success: 145 63% 40%;
+    --success-foreground: 0 0% 95%;
+    --info: 214 90% 55%;
+    --border: 40 4.2% 20.2%;
+    --input: 40 4.2% 20.2%;
+    --ring: 25 95% 53%;
+    --body-bg-color: 40 5.6% 12%; /* Darker beige for dark mode */
+}
+
+/* Styles specific to the MEDHAYU module components */
+.medhayu-module-container {
+    background-color: hsl(var(--body-bg-color));
+}
+
+.medhayu-module-container .animated-gradient-text {
+      background: linear-gradient(
+        300deg,
+        hsl(var(--primary)),
+        hsl(var(--accent))
+      );
+      background-size: 200% 200%;
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      animation: gradient-animation 6s ease infinite;
+}
+
+@keyframes gradient-animation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+}
+
+.medhayu-module-container .sparkling-star {
+  animation: sparkle 1.5s infinite ease-in-out;
+  color: gold;
+}
+
+@keyframes sparkle {
+  0%   { transform: scale(1); opacity: 0.8; }
+  50%  { transform: scale(1.2); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+
+/* Prose preview theming */
+.prose-preview {
+    font-family: var(--font-body);
+    color: var(--book-text-color);
+}
+.prose-preview h1, .prose-preview h2, .prose-preview h3, .prose-preview h4, .prose-preview h5, .prose-preview h6 {
+    font-family: var(--font-headline);
+    color: var(--book-primary-color);
+}
+.prose-preview a {
+    color: var(--book-accent-color);
+}
+.prose-preview strong {
+    color: inherit;
+}
+
+/* Base styles for prose content within the module */
+.medhayu-module-container .prose-content {
+    line-height: 1.6;
+}
+
+.medhayu-module-container .prose-styling span[data-citation] {
+    padding: 2px 4px;
+    border-radius: 4px;
+    background-color: hsl(var(--muted));
+    color: hsl(var(--primary));
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.medhayu-module-container .prose-styling span[data-citation]:hover {
+    background-color: hsl(var(--accent));
+    color: hsl(var(--accent-foreground));
+}
+
+.medhayu-module-container .version-word {
+    font-style: italic;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+    text-decoration-color: hsla(var(--foreground), 0.5);
+}
+
+.medhayu-module-container .version-word:hover {
+    background-color: hsl(var(--muted));
+}
+
+.medhayu-module-container .glossary-term-highlight {
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 2px;
+}

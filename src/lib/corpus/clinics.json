@@ -1,0 +1,30 @@
+
+[
+  {
+    "clinicId": "clinic-001",
+    "clinicName": "Oshadham Ayurveda - Jayanagar (HO)",
+    "location": "123 Healing Path, Jayanagar 4th Block, Bangalore, 560041",
+    "doctorId": "dev_doctor_001",
+    "services": ["Panchakarma", "Kayachikitsa", "Yoga Therapy"],
+    "patients": [],
+    "knowledgeLinked": []
+  },
+  {
+    "clinicId": "clinic-002",
+    "clinicName": "Oshadham Ayurveda - Indiranagar",
+    "location": "456 Wellness Rd, Indiranagar, Bangalore, 560038",
+    "doctorId": "dev_doctor_002",
+    "services": ["Panchakarma", "Abhyanga", "Shirodhara"],
+    "patients": [],
+    "knowledgeLinked": []
+  },
+  {
+    "clinicId": "clinic-003",
+    "clinicName": "Oshadham Ayurveda - Koramangala",
+    "location": "789 Harmony St, Koramangala 5th Block, Bangalore, 560095",
+    "doctorId": "dev_doctor_003",
+    "services": ["Herbal Medicine", "Dietary Consultation"],
+    "patients": [],
+    "knowledgeLinked": []
+  }
+]

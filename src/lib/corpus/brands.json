@@ -1,0 +1,61 @@
+
+[
+    {
+        "id": "brand-oshadham",
+        "slug": "oshadham-wellness",
+        "name": "Oshadham Wellness",
+        "logo": "https://placehold.co/150x50/678b61/FFFFFF/png?text=Oshadham",
+        "tagline": "Used in 380+ clinics across India",
+        "description": "Oshadham Wellness is committed to providing authentic, high-quality Ayurvedic products formulated based on classical texts and validated by modern research. Our focus is on clinical efficacy and practitioner trust.",
+        "attestations": {
+            "vaidyaCount": 380,
+            "clinicCount": 150,
+            "certification": "GMP Certified"
+        },
+        "testimonials": [
+            {
+                "author": "Dr. V. K. Sharma",
+                "quote": "Oshadham's products have shown consistent results in my clinical practice. Their commitment to quality is commendable."
+            }
+        ]
+    },
+    {
+        "id": "brand-kalpatantra",
+        "slug": "kalpatantra-ayurveda",
+        "name": "Kalpatantra Ayurveda",
+        "logo": "https://placehold.co/150x50/c4913f/FFFFFF/png?text=Kalpatantra",
+        "tagline": "GMP + Clinical Trial Certified",
+        "description": "Kalpatantra Ayurveda blends traditional manufacturing processes with rigorous scientific validation, including clinical trials for its key formulations, ensuring both safety and efficacy.",
+        "attestations": {
+            "vaidyaCount": 92,
+            "clinicCount": 75,
+            "certification": "Clinical Trial Certified"
+        }
+    },
+    {
+        "id": "brand-atharva",
+        "slug": "atharva-ayurveda",
+        "name": "Atharva Ayurveda",
+        "logo": "https://placehold.co/150x50/a86c5d/FFFFFF/png?text=Atharva",
+        "tagline": "Focused on Rare Formulations",
+        "description": "Atharva Ayurveda specializes in sourcing and preparing rare and complex classical formulations, making them accessible to practitioners for treating challenging health conditions.",
+        "attestations": {
+            "vaidyaCount": 45,
+            "clinicCount": 60,
+            "certification": "Rare Herb Certified"
+        }
+    },
+    {
+        "id": "brand-himalaya",
+        "slug": "himalaya-wellness",
+        "name": "Himalaya Wellness",
+        "logo": "https://placehold.co/150x50/264653/FFFFFF/png?text=Himalaya",
+        "tagline": "Trusted since 1930",
+        "description": "A global leader in herbal healthcare, Himalaya Wellness combines the best of Ayurveda with modern scientific research to develop a wide range of products for holistic well-being.",
+        "attestations": {
+            "vaidyaCount": 1000,
+            "clinicCount": 5000,
+            "certification": "ISO 9001:2015"
+        }
+    }
+]

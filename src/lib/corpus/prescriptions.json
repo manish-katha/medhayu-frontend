@@ -1,0 +1,109 @@
+
+[
+  {
+    "id": "RX-001",
+    "patientId": 1,
+    "medicines": [
+      {
+        "id": 1,
+        "name": "Yogaraja Guggulu",
+        "dosage": "2 tablets",
+        "timing": "After Food",
+        "anupaan": "उष्ण जल (Warm Water)"
+      },
+      {
+        "id": 2,
+        "name": "Mahanarayan Oil",
+        "dosage": "For external application",
+        "timing": "As needed",
+        "anupaan": "N/A"
+      }
+    ],
+    "diagnosticTests": [
+      "X-Ray Lumbosacral Spine",
+      "Serum Calcium, Phosphorus, Magnesium"
+    ],
+    "specialInstructions": "Avoid lifting heavy objects and sitting for prolonged periods.",
+    "dietInstructions": "Avoid cold, sour, and fermented foods. Include ginger and garlic in your diet.",
+    "nextVisitDate": "2023-11-15T10:30:00.000Z"
+  },
+  {
+    "id": "RX-002",
+    "patientId": 1,
+    "medicines": [
+      {
+        "id": 1,
+        "name": "Yogaraja Guggulu",
+        "dosage": "2 tablets",
+        "timing": "After Food",
+        "anupaan": "उष्ण जल (Warm Water)"
+      },
+      {
+        "id": 2,
+        "name": "Nishamalaki",
+        "dosage": "1 tablet",
+        "timing": "Before Food",
+        "anupaan": "उष्ण जल (Warm Water)"
+      }
+    ],
+    "diagnosticTests": [],
+    "specialInstructions": "Continue with light yoga and stretching.",
+    "dietInstructions": "Continue with the previous diet plan. Monitor blood sugar levels regularly.",
+    "nextVisitDate": "2023-12-15T10:30:00.000Z"
+  },
+  {
+    "id": "RX-003",
+    "patientId": 2,
+    "medicines": [
+      {
+        "id": 1,
+        "name": "Amavatari Rasa",
+        "dosage": "1 tablet",
+        "timing": "1-0-1",
+        "anupaan": "मधु (Honey)"
+      },
+      {
+        "id": 2,
+        "name": "Rasna Saptaka Kashayam",
+        "dosage": "15 ml",
+        "timing": "Before Food",
+        "anupaan": "उष्ण जल (Warm Water)"
+      }
+    ],
+    "diagnosticTests": [
+      "CBC",
+      "ESR",
+      "C-Reactive Protein (CRP)",
+      "Rheumatoid Factor (RA Factor)"
+    ],
+    "specialInstructions": "Apply warm castor oil to affected joints.",
+    "dietInstructions": "Avoid dairy products, especially yogurt. Favor light, warm, and easily digestible foods.",
+    "nextVisitDate": "2023-10-22T11:30:00.000Z"
+  },
+  {
+    "id": "RX-004",
+    "patientId": 3,
+    "medicines": [
+      {
+        "id": 1,
+        "name": "Kaishore Guggulu",
+        "dosage": "2 tablets",
+        "timing": "After Food",
+        "anupaan": "मञ्जिष्ठादि कषाय"
+      },
+      {
+        "id": 2,
+        "name": "Khadirarishta",
+        "dosage": "20 ml",
+        "timing": "After Food",
+        "anupaan": "Equal water"
+      }
+    ],
+    "diagnosticTests": [
+      "Liver Function Test (LFT)"
+    ],
+    "specialInstructions": "Avoid scratching the affected areas.",
+    "dietInstructions": "Avoid spicy and sour foods. Increase intake of bitter vegetables.",
+    "nextVisitDate": "2023-12-01T09:00:00.000Z"
+  }
+]

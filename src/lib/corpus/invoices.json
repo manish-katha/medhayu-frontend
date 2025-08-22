@@ -1,0 +1,148 @@
+
+[
+  {
+    "id": "INV-2023-001",
+    "patientId": 1,
+    "date": "2023-10-15T10:00:00.000Z",
+    "amount": 1500,
+    "status": "Paid",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Consultation Fee",
+        "quantity": 1,
+        "price": 800,
+        "total": 800
+      },
+      {
+        "id": "item-2",
+        "name": "Yogaraja Guggulu",
+        "quantity": 1,
+        "price": 700,
+        "total": 700
+      }
+    ]
+  },
+  {
+    "id": "INV-2023-002",
+    "patientId": 1,
+    "date": "2023-11-15T10:30:00.000Z",
+    "amount": 1200,
+    "status": "Paid",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Follow-up Consultation",
+        "quantity": 1,
+        "price": 500,
+        "total": 500
+      },
+      {
+        "id": "item-2",
+        "name": "Nishamalaki Vati",
+        "quantity": 1,
+        "price": 700,
+        "total": 700
+      }
+    ]
+  },
+  {
+    "id": "INV-2023-003",
+    "patientId": 2,
+    "date": "2023-09-22T11:30:00.000Z",
+    "amount": 2500,
+    "status": "Paid",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Initial Consultation",
+        "quantity": 1,
+        "price": 1000,
+        "total": 1000
+      },
+      {
+        "id": "item-2",
+        "name": "Amavatari Rasa",
+        "quantity": 2,
+        "price": 400,
+        "total": 800
+      },
+      {
+        "id": "item-3",
+        "name": "Rasna Saptaka Kashayam",
+        "quantity": 1,
+        "price": 700,
+        "total": 700
+      }
+    ]
+  },
+  {
+    "id": "INV-2023-004",
+    "patientId": 3,
+    "date": "2023-11-01T09:00:00.000Z",
+    "amount": 1800,
+    "status": "Pending",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Consultation",
+        "quantity": 1,
+        "price": 800,
+        "total": 800
+      },
+      {
+        "id": "item-2",
+        "name": "Kaishore Guggulu",
+        "quantity": 1,
+        "price": 1000,
+        "total": 1000
+      }
+    ]
+  },
+  {
+    "id": "INV-2023-005",
+    "patientId": 4,
+    "date": "2023-11-05T14:00:00.000Z",
+    "amount": 1350,
+    "status": "Paid",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Consultation",
+        "quantity": 1,
+        "price": 800,
+        "total": 800
+      },
+      {
+        "id": "item-2",
+        "name": "Pathyadi Kwath",
+        "quantity": 1,
+        "price": 550,
+        "total": 550
+      }
+    ]
+  },
+  {
+    "id": "INV-2023-006",
+    "patientId": 5,
+    "date": "2023-10-28T16:00:00.000Z",
+    "amount": 1100,
+    "status": "Overdue",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Consultation",
+        "quantity": 1,
+        "price": 800,
+        "total": 800
+      },
+      {
+        "id": "item-2",
+        "name": "Sarpagandha Ghan Vati",
+        "quantity": 1,
+        "price": 300,
+        "total": 300
+      }
+    ]
+  }
+]

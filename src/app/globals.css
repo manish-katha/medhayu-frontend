@@ -1,0 +1,564 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 98%;
+    --foreground: 240 4% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 4% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 4% 11%;
+    --primary: 216 100% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 14 100% 68%;
+    --accent-foreground: 240 4% 11%;
+    --destructive: 0 100% 65%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 200 25% 85%;
+    --input: 200 25% 85%;
+    --ring: 216 100% 50%;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 1rem;
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 240 4% 11%;
+    --sidebar-primary: 216 100% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 96.1%;
+    --sidebar-accent-foreground: 240 4% 11%;
+    --sidebar-border: 200 25% 85%;
+    --sidebar-ring: 216 100% 50%;
+
+    /* Custom Ayurvedic Colors */
+    --ayurveda-green: 105 20% 46%; /* #678b61 */
+    --ayurveda-ochre: 35 56% 53%; /* #c4913f */
+    --ayurveda-terracotta: 14 30% 52%; /* #a86c5d */
+    --ayurveda-brown: 25 18% 30%; /* #5b4c47 */
+
+    /* Copilot Colors */
+    --copilot-stone-100: 30 25% 99%;
+    --copilot-stone-200: 25 21% 95%;
+    --copilot-stone-300: 25 11% 79%;
+    --copilot-stone-750: 25 4% 30%;
+    --copilot-stone-900: 20 10% 9%;
+    --copilot-saddle-150: 26 67% 96%;
+    --copilot-saddle-300: 22 29% 82%;
+  }
+  .dark {
+    --background: 0 0% 7%;
+    --foreground: 0 0% 93%;
+    --card: 0 0% 10%;
+    --card-foreground: 0 0% 93%;
+    --popover: 0 0% 7%;
+    --popover-foreground: 0 0% 93%;
+    --primary: 216 100% 50%;
+    --primary-foreground: 0 0% 93%;
+    --secondary: 0 0% 14.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 14 100% 68%;
+    --accent-foreground: 0 0% 7%;
+    --destructive: 0 100% 65%;
+    --destructive-foreground: 0 0% 93%;
+    --border: 200 15% 20%;
+    --input: 200 15% 20%;
+    --ring: 216 100% 50%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar-background: 0 0% 7%;
+    --sidebar-foreground: 0 0% 93%;
+    --sidebar-primary: 216 100% 50%;
+    --sidebar-primary-foreground: 0 0% 93%;
+    --sidebar-accent: 0 0% 14.9%;
+    --sidebar-accent-foreground: 0 0% 93%;
+    --sidebar-border: 200 15% 20%;
+    --sidebar-ring: 216 100% 50%;
+
+    /* Custom Ayurvedic Colors */
+    --ayurveda-green: 105 20% 66%;
+    --ayurveda-ochre: 35 56% 73%;
+    --ayurveda-terracotta: 14 30% 72%;
+    --ayurveda-brown: 25 18% 60%;
+
+    /* Copilot Colors */
+    --copilot-stone-100: 222 28% 12%;
+    --copilot-stone-200: 225 14% 18%;
+    --copilot-stone-300: 220 10% 30%;
+    --copilot-stone-750: 220 15% 85%;
+    --copilot-stone-900: 220 25% 95%;
+    --copilot-saddle-150: 225 14% 18%;
+    --copilot-saddle-300: 220 10% 40%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--muted-foreground) / 0.5) transparent;
+  }
+  .column-count-1 { column-count: 1; }
+  .column-count-2 { column-count: 2; }
+  .column-count-3 { column-count: 3; }
+  .break-inside-avoid { break-inside: avoid; }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  .text-shadow-sm {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Custom scrollbar styles */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--muted-foreground) / 0.3);
+    border-radius: 10px;
+    transition: background-color 0.2s ease-in-out;
+  }
+
+  *:hover::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--muted-foreground) / 0.5);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: hsl(var(--muted-foreground) / 0.7);
+  }
+}
+
+@layer components {
+  /* Profile Card in Sidebar */
+  .profile-card-wrapper {
+    @apply w-full flex flex-col items-center justify-center p-3;
+  }
+
+  .profile-card-banner {
+    @apply h-24 w-full rounded-t-lg bg-cover bg-center;
+  }
+
+  .profile-card-details {
+    @apply relative flex w-full flex-col items-center bg-card p-4 pt-12 rounded-b-lg border-x border-b -mt-1;
+  }
+  
+  .profile-card-dp {
+    @apply absolute -top-12 h-24 w-24 rounded-full border-4 border-card bg-card p-1;
+  }
+  
+  .profile-card-dp img {
+    @apply h-full w-full rounded-full object-cover;
+  }
+
+  .profile-card-name {
+    @apply text-center;
+  }
+
+  .profile-card-name h2 {
+    @apply text-lg font-bold;
+  }
+
+  .profile-card-name h2 span {
+    @apply text-xs font-normal text-muted-foreground block;
+  }
+
+  .profile-card-followers-wrap {
+    @apply flex w-full my-4;
+  }
+  
+  .insta-follow {
+     @apply w-1/2 text-center;
+  }
+  
+  .insta-follow h2 {
+    @apply text-sm font-bold;
+  }
+
+  .insta-follow h2 span {
+     @apply text-xs font-normal text-muted-foreground block;
+  }
+  
+  .profile-card-button {
+    @apply w-full;
+  }
+
+  .profile-card-button a {
+    @apply block w-full text-center bg-primary text-primary-foreground h-9 px-3 rounded-md text-sm font-medium hover:bg-primary/90 leading-9;
+  }
+
+  .ayurveda-wrapper {
+    @apply flex items-center rounded-lg border-2 border-transparent relative;
+    background-image:
+      linear-gradient(white, white),
+      linear-gradient(90deg, #6edc90, #ff6961, #72baff);
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    padding: 1px 0;
+  }
+  
+  .dark .ayurveda-wrapper {
+    background-image:
+      linear-gradient(hsl(var(--card)), hsl(var(--card))),
+      linear-gradient(90deg, #6edc90, #ff6961, #72baff);
+  }
+
+  .ayurveda-box {
+    @apply flex items-center gap-1 py-0 px-1;
+  }
+  
+  .ayurveda-box .dosha-icon-container {
+    @apply relative w-8 h-8 flex items-center justify-center;
+  }
+
+  .ayurveda-box .dosha-icon {
+    @apply text-xl z-10;
+  }
+  
+  .ayurveda-box .separator-line {
+      @apply w-px h-6 bg-border;
+  }
+
+  .ayurveda-box .time-info {
+      @apply flex flex-col text-left;
+  }
+
+  .ayurveda-box .time-display {
+      @apply text-[12px] font-[800];
+  }
+  
+  .ayurveda-box .dosha-text {
+      @apply text-xs font-medium text-muted-foreground;
+  }
+
+  .ayurveda-box .date-ritu-info {
+    @apply flex flex-col text-left;
+  }
+
+  .ayurveda-box .date-display {
+    @apply text-[12px] font-[800];
+  }
+  
+  .ayurveda-box .ritu-display {
+    @apply text-xs font-medium text-muted-foreground;
+  }
+
+
+  /* Sidebar hover styles */
+  #sidebar:not(.w-64) .sidebar-text,
+  #sidebar:not(.w-64) .sidebar-separator-container .sidebar-text {
+      @apply opacity-0 hidden;
+  }
+  
+  #sidebar.w-64 .sidebar-text,
+  #sidebar.w-64 .sidebar-separator-container {
+      @apply opacity-100 flex;
+  }
+
+  #sidebar .sidebar-separator-container {
+    @apply flex items-center gap-2;
+  }
+
+  #sidebar:not(.w-64) .sidebar-separator-container {
+      @apply border-t border-sidebar-border;
+  }
+  #sidebar:not(.w-64) .sidebar-separator-container span,
+  #sidebar:not(.w-64) .sidebar-separator-container .h-px {
+      @apply hidden;
+  }
+  
+  /* Custom popup styles */
+  .popup {
+    position: absolute;
+    width: 300px; /* Reduced width */
+    padding: 1rem;
+    background: hsl(var(--card));
+    color: hsl(var(--card-foreground));
+    border-radius: 15px;
+    box-sizing: border-box;
+    z-index: 100;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    top: 120%; /* Start from below the button */
+    right: 0; /* Align to the right of the container */
+    transform-origin: top right;
+    transform: translateY(-10px) scale(0.95);
+    transition: opacity 200ms ease-out, transform 200ms ease-out, top 200ms ease-out;
+    visibility: hidden;
+  }
+  .popup.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+    transition: opacity 300ms ease-in-out, transform 300ms cubic-bezier(0.18, 0.89, 0.43, 1.19);
+  }
+  /* Dismiss animation */
+  .popup:not(.active) {
+    transition: opacity 300ms ease-in-out, transform 300ms ease-in-out, top 300ms ease-in-out;
+    opacity: 0;
+    transform: translateY(-10px) scale(0.95);
+  }
+  .popup .title {
+    margin-bottom: 0.75rem;
+    font-size: 1.125rem; /* Reduced font size */
+    font-weight: 600;
+  }
+  .popup .description {
+    color: hsl(var(--muted-foreground));
+    font-size: 0.875rem; /* Reduced font size */
+    padding: 5px;
+  }
+  .popup .dismiss-btn {
+    margin-top: 1rem;
+  }
+  .popup .dismiss-btn button {
+    padding: 8px 16px;
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+    border: 2px solid hsl(var(--primary));
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+  }
+  .popup .dismiss-btn button:hover {
+    color: hsl(var(--primary));
+    background: transparent;
+  }
+  .popup > div {
+    position: relative;
+    top: 10px;
+    opacity: 0;
+  }
+  .popup.active > div {
+    top: 0px;
+    opacity: 1;
+    transition: all 400ms ease-in-out 150ms;
+  }
+
+  /* Background mask for theme toggle */
+  #bg-mask {
+    position: fixed;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background-color: hsl(var(--foreground));
+    z-index: 1000;
+    pointer-events: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .bg-mask.animation {
+    animation: BackgroundSpread 500ms forwards;
+  }
+
+  @keyframes BackgroundSpread {
+    0% {
+      width: 0;
+      height: 0;
+    }
+    100% {
+      width: max(200vw, 200vh);
+      height: max(200vw, 200vh);
+    }
+  }
+
+  /* Weather Animations SVG */
+  .weather-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .longRay {
+    stroke: #ffdd1a;
+    stroke-width: 3;
+    stroke-dasharray: 10;
+    stroke-dashoffset: 10;
+    animation: longRayAnimation 4s linear infinite;
+  }
+
+  @keyframes longRayAnimation {
+    from { stroke-dashoffset: 100; }
+    to { stroke-dashoffset: 0; }
+  }
+
+  .shortRay {
+    stroke: #ffdd1a;
+    stroke-width: 1.5;
+    stroke-dasharray: 3;
+    stroke-dashoffset: 1;
+    animation: shortRayAnimation 3s linear infinite;
+  }
+
+  @keyframes shortRayAnimation {
+    from { stroke-dashoffset: 20; }
+    to { stroke-dashoffset: 0; }
+  }
+
+  .small-cloud {
+    animation: float 8s linear infinite;
+  }
+
+  @keyframes float {
+    0% { transform: translate(0px, 15px); opacity: 0.75; }
+    25% { transform: translate(15px, 0px); opacity: 1; }
+    50% { transform: translate(30px, 0px); opacity: 1; }
+    75% { transform: translate(25px, 0px); opacity: 1; }
+    100% { transform: translate(0px, 15px); opacity: 0.75; }
+  }
+
+  .reverse-small-cloud {
+    animation: reverse-float 6s linear infinite;
+  }
+
+  @keyframes reverse-float {
+    0% { transform: translate(0px, -15px); opacity: 0.75; }
+    25% { transform: translate(-15px, 0px); opacity: 1; }
+    50% { transform: translate(-30px, 0px); opacity: 1; }
+    75% { transform: translate(-25px, 0px); opacity: 1; }
+    100% { transform: translate(0px, -15px); opacity: 0.75; }
+  }
+
+  #drop1 { animation: rain 1s linear infinite; }
+  #drop3 { animation: rain 1s linear infinite 0.5s; }
+  #drop2 { animation: rain 2s linear infinite 1s; }
+  #drop4 { animation: rain 2s linear infinite 0.8s; }
+
+  @keyframes rain {
+    0% { opacity: 1; }
+    25% { transform: translateY(5px); opacity: 1; }
+    50% { transform: translateY(15px); opacity: 1; }
+    75% { transform: translateY(25px); opacity: 0.75; }
+    100% { transform: translateY(35px); opacity: 0; }
+  }
+
+  .drizzle {
+    stroke: lightblue;
+    stroke-width: 1;
+    stroke-dasharray: 3;
+    stroke-dashoffset: 1;
+    animation: drizzle 5s linear infinite;
+  }
+
+  @keyframes drizzle {
+    from { stroke-dashoffset: 40; }
+    to { stroke-dashoffset: 10; }
+  }
+
+  .lighting {
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    animation-name: flash;
+  }
+  
+  @keyframes flash {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+
+
+  .snowFlake {
+    fill: none;
+    stroke: white;
+    stroke-width: 0.6;
+  }
+  #snowFlake1 { animation: snow 4s linear infinite; }
+  #snowFlake2 { animation: snow 3s linear infinite 0.8s; }
+  #snowFlake3 { animation: snow 5s linear infinite 0.5s; }
+  #snowFlake4 { animation: snow 6s linear infinite 1s; }
+  #snowFlake5 { animation: snow 4s linear infinite 0.6s; }
+  
+  @keyframes snow {
+    0% { transform: translate(5px, 0px); opacity: 1; }
+    25% { transform: translate(0px, 10px); opacity: 1; }
+    50% { transform: translate(7px, 20px); opacity: 1; }
+    75% { transform: translate(0px, 30px); opacity: 0.75; }
+    100% { transform: translate(10px, 40px); opacity: 0.5; }
+  }
+
+  #ice1 { animation: ice 1s linear infinite; }
+  #ice3 { animation: ice 1s linear infinite 0.5s; }
+  #ice2 { animation: ice 2s linear infinite 1s; }
+  #ice4 { animation: ice 2s linear infinite 0.8s; }
+  
+  @keyframes ice {
+    0% { opacity: 1; }
+    25% { transform: translateY(5px); opacity: 1; }
+    50% { transform: translateY(15px); opacity: 1; }
+    75% { transform: translateY(25px); opacity: 0.75; }
+    100% { transform: translateY(35px); opacity: 0; }
+  }
+  
+  #mist {
+    fill: none;
+    stroke: #333333;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    animation: misty 5s linear infinite alternate;
+  }
+  
+  @keyframes misty {
+    from { x: -10px; }
+    to { x: 17px; }
+  }
+  
+  /* Temperature divider block */
+  .temp-divider-block {
+    position: relative;
+    width: 20px;
+    height: 40px;
+  }
+
+  .temp {
+    position: absolute;
+    top: -4px;
+    left: 0;
+    font-size: 10px;
+    font-weight: bold;
+    color: #333;
+  }
+  .dark .temp {
+    color: #f0f0f0;
+  }
+
+  .v-divider {
+    position: absolute;
+    left: 75%;
+    top: 0;
+    transform: translateX(-50%);
+    width: 1px;
+    height: 100%;
+    background-color: #666;
+  }
+}

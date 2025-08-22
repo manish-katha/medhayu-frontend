@@ -1,0 +1,60 @@
+.whitepaper-switch {
+  display: inline-flex;
+  position: relative;
+  background-color: hsl(var(--muted));
+  border-radius: 9999px;
+  padding: 4px;
+  border: 1px solid hsl(var(--border));
+  box-shadow: inset 0 1px 2px hsl(var(--shadow-color) / 0.1);
+}
+
+.whitepaper-switch label {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.whitepaper-switch label span {
+  display: block;
+  padding: 6px 16px;
+  font-size: 0.875rem; /* 14px */
+  font-weight: 500;
+  color: hsl(var(--muted-foreground));
+  white-space: nowrap;
+  transition: color 0.3s ease;
+}
+
+.whitepaper-switch input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.whitepaper-switch input:checked + span {
+  color: hsl(var(--foreground));
+}
+
+.whitepaper-switch__indicator {
+  position: absolute;
+  top: 4px;
+  bottom: 4px;
+  height: calc(100% - 8px);
+  background-color: hsl(var(--card));
+  border-radius: 9999px;
+  box-shadow: 0 1px 3px hsl(var(--shadow-color) / 0.2);
+  transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), width 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  z-index: 1;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}

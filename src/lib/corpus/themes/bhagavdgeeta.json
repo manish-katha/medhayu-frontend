@@ -1,0 +1,79 @@
+{
+  "bookId": "bhagavdgeeta",
+  "styles": {
+    "h1": {
+      "fontSize": "48px",
+      "fontWeight": "bold",
+      "color": "hsl(var(--primary))"
+    },
+    "h2": {
+      "fontSize": "30px",
+      "fontWeight": "bold"
+    },
+    "h3": {
+      "fontSize": "24px",
+      "fontWeight": "bold"
+    },
+    "h4": {
+      "fontSize": "20px",
+      "fontWeight": "bold"
+    },
+    "h5": {
+      "fontSize": "18px",
+      "fontWeight": "bold"
+    },
+    "h6": {
+      "fontSize": "16px",
+      "fontWeight": "bold"
+    },
+    "paragraph": {
+      "fontSize": "18px",
+      "color": "rgba(255, 0, 0, 1)",
+      "fontFamily": "Adishila"
+    },
+    "sutra": {
+      "fontFamily": "Adishila",
+      "color": "hsl(var(--primary))",
+      "fontSize": "18px"
+    },
+    "bhashya": {
+      "fontStyle": "italic",
+      "color": "rgba(55, 123, 255, 1)",
+      "fontSize": "16px"
+    },
+    "teeka": {
+      "color": "hsl(var(--secondary-foreground))",
+      "fontSize": "16px"
+    },
+    "citation": {
+      "color": "hsl(var(--accent))"
+    },
+    "quotation": {
+      "color": "rgba(0, 0, 0, 1)",
+      "fontStyle": "italic"
+    },
+    "version": {
+      "backgroundColor": "hsl(var(--primary) / 0.1)",
+      "color": "hsl(var(--primary))"
+    },
+    "footnote": {
+      "fontSize": "14px",
+      "color": "rgba(175, 93, 255, 1)"
+    },
+    "specialNote": {
+      "fontSize": "14px",
+      "color": "hsl(var(--destructive))"
+    },
+    "toc": {
+      "fontSize": "14px",
+      "color": "rgba(182, 128, 4, 1)"
+    },
+    "note": {
+      "border": "1px dashed hsl(var(--destructive))",
+      "padding": "0.5rem",
+      "color": "hsl(var(--destructive))"
+    }
+  },
+  "themeName": "Vaikhari Classic",
+  "isDefault": true
+}

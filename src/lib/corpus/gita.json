@@ -1,0 +1,24 @@
+
+[
+  {
+    "book": "Bhagavad Gita",
+    "chapter": 1,
+    "verse": 1,
+    "text_sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||",
+    "text_english": "Dhritarashtra said: O Sanjaya, after my sons and the sons of Pandu assembled in the place of pilgrimage at Kurukshetra, desiring to fight, what did they do?"
+  },
+  {
+    "book": "Bhagavad Gita",
+    "chapter": 2,
+    "verse": 47,
+    "text_sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||",
+    "text_english": "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty."
+  },
+  {
+    "book": "Bhagavad Gita",
+    "chapter": 18,
+    "verse": 66,
+    "text_sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||",
+    "text_english": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear."
+  }
+]

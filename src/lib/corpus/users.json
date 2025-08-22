@@ -1,0 +1,112 @@
+
+[
+  {
+    "name": "Dr. Arjun Sharma",
+    "username": "dr_arjun",
+    "email": "researcher@medhayu.com",
+    "avatarUrl": "/media/pexels-life-of-pix-7974.jpg",
+    "coverUrl": "/media/wp10610074-mountain-at-night-wallpapers.jpg",
+    "bio": "A passionate researcher dedicated to exploring the depths of Vedic and Puranic literature. My work focuses on digital humanities and making ancient texts accessible to a modern audience.",
+    "education": [
+      {
+        "institution": "Government Ayurveda College, Trivandrum",
+        "degree": "Ph.D. in Indology",
+        "fieldOfStudy": "Comparative Philosophy and Sanskrit Studies",
+        "startYear": "2012",
+        "endYear": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "MEDHAYU Foundation",
+        "title": "Lead Researcher",
+        "startYear": "2017",
+        "endYear": "Present"
+      }
+    ],
+    "skills": ["Sanskrit", "Digital Humanities", "Manuscriptology", "Vedanta", "Nyaya"],
+    "links": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "website": "https://medhayu.com"
+    },
+    "stats": { "views": 142, "messages": 23, "circles": 5 },
+    "college": "Government Ayurveda College, Trivandrum",
+    "year_passed": "2016",
+    "city": "Trivandrum",
+    "state": "Kerala",
+    "department": ["Kayachikitsa", "Panchakarma"],
+    "interests": ["Rasayana", "Tantra", "Nadi Pariksha"],
+    "circles": ["Panchakarma Experts", "Rasashastra Scholars"],
+    "user_type": "Researcher",
+    "visibility": "public",
+    "career_stage": "PhD Scholar",
+    "approach": "Research & Clinical Hybrid"
+  },
+  {
+    "name": "Vidushi Meera Rao",
+    "username": "meera_rao",
+    "email": "meera.rao@example.com",
+    "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coverUrl": "/media/wp10610074-mountain-at-night-wallpapers.jpg",
+    "bio": "Specializing in Dravyaguna and the application of traditional herbs in modern clinical practice.",
+    "education": [
+      {
+        "institution": "Banaras Hindu University",
+        "degree": "M.D. (Ayurveda)",
+        "fieldOfStudy": "Dravyaguna",
+        "startYear": "2010",
+        "endYear": "2013"
+      }
+    ],
+    "experience": [
+      { "company": "Arya Vaidya Sala", "title": "Consultant", "startYear": "2014", "endYear": "Present" }
+    ],
+    "skills": ["Dravyaguna", "Herbal Pharmacology", "Clinical Trials"],
+    "links": {},
+    "stats": { "views": 250, "messages": 45, "circles": 3 },
+    "college": "Banaras Hindu University",
+    "year_passed": "2013",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "department": ["Dravyaguna"],
+    "interests": ["Clinical Ayurveda", "Herbal Formulation", "Medicinal Plants"],
+    "circles": ["Dravyaguna Deep-Dive"],
+    "user_type": "Doctor",
+    "visibility": "public",
+    "career_stage": "Senior Consultant",
+    "approach": "Modern-Integrated Vaidya"
+  },
+  {
+    "name": "Anand Sharma",
+    "username": "anand_sharma",
+    "email": "anand.sharma@example.com",
+    "avatarUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coverUrl": "/media/wp10610074-mountain-at-night-wallpapers.jpg",
+    "bio": "BAMS student with a keen interest in the philosophical foundations of Ayurveda and Shastra studies.",
+    "education": [
+      {
+        "institution": "Gujarat Ayurved University",
+        "degree": "BAMS",
+        "fieldOfStudy": "Ayurvedic Medicine and Surgery",
+        "startYear": "2021",
+        "endYear": "2026"
+      }
+    ],
+    "experience": [],
+    "skills": ["Sanskrit", "Samhita Siddhanta"],
+    "links": {},
+    "stats": { "views": 50, "messages": 10, "circles": 2 },
+    "college": "Gujarat Ayurved University",
+    "year_passed": "2026",
+    "city": "Jamnagar",
+    "state": "Gujarat",
+    "department": ["Samhita Siddhanta"],
+    "interests": ["Charaka Samhita", "Philosophy", "Sanskrit"],
+    "circles": ["Charaka Samhita Sutra Paath"],
+    "user_type": "Student",
+    "visibility": "public",
+    "career_stage": "BAMS Student",
+    "approach": "Shuddha-Achara Vaidya"
+  }
+]

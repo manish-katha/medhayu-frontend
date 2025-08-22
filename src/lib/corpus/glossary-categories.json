@@ -1,0 +1,68 @@
+
+[
+  {
+    "id": "vedanta-terms",
+    "name": "Vedanta Terms",
+    "scope": "global",
+    "colorTheme": "saffron",
+    "terms": [
+      {
+        "term": "Brahman",
+        "definition": "The ultimate, unchanging reality, beyond all attributes and distinctions.",
+        "aliases": ["Self", "Atman"]
+      },
+      {
+        "term": "Atman",
+        "definition": "The individual self or soul, which is identical to Brahman.",
+        "aliases": ["Self"]
+      },
+      {
+        "term": "Maya",
+        "definition": "The illusory power that veils the true nature of reality and creates the appearance of the phenomenal world.",
+        "aliases": ["Illusion"]
+      }
+    ]
+  },
+  {
+    "id": "nyaya-vaisesika",
+    "name": "Nyaya-Vaisheshika",
+    "scope": "global",
+    "colorTheme": "blue",
+    "terms": [
+      {
+        "term": "Pramana",
+        "definition": "The means of acquiring valid knowledge, such as perception (pratyakṣa), inference (anumāna), comparison (upamāna), and testimony (śabda)."
+      },
+      {
+        "term": "Padartha",
+        "definition": "The categories of reality, including substance (dravya), quality (guṇa), action (karma), generality (sāmānya), particularity (viśeṣa), and inherence (samavāya)."
+      }
+    ]
+  },
+  {
+    "id": "ashtavakra-specific",
+    "name": "Ashtavakra Gita Specific",
+    "scope": "local",
+    "colorTheme": "green",
+    "terms": [
+      {
+        "term": "Sakshi",
+        "definition": "The detached witness-consciousness that observes all phenomena without involvement."
+      }
+    ]
+  },
+   {
+    "id": "uncategorized",
+    "name": "Uncategorized",
+    "scope": "local",
+    "colorTheme": "gray",
+    "terms": [
+        {
+          "id": "dharmantaray",
+          "term": "धन्वन्तरिः",
+          "transliteration": "dhanvantariḥ",
+          "definition": "पुं, (धनुरुपलक्षणत्वात् शल्यादि-\n\nचिकित्साशास्त्रं तस्य अन्तं ऋच्छतीति ।\nऋ गतौ + “अच इः ।” उणां ४ । १३८ । इति\nइः ।) देववैद्यः । स भगवदवतारः । यथा, --\n“धन्वन्तरिश्च भगवान् स्वयमेव कीर्त्ति-\nर्नाम्ना नृणां पुरुरुजां रुज आशु हन्ति ।\nयज्ञे च भागममृतायुरवावरुन्ध\nआयुष्यवेदमनुशास्त्यवतीर्य्य लोके ॥\nस वै भगवतः साक्षात् विष्णोरंशांशसम्भवः ।\nधन्वन्तरिरिति ख्यात आयुर्व्वेददृगिज्यभाक् ॥”\nइति श्रीभागवतम् ॥ * ॥\n“नारायणांशो भगवान् स्वयं धन्वन्तरिर्महान् ।\nपुरा समुद्रमथने समुत्तस्थौ महोदधेः ॥\nसर्व्ववेदेषु निष्णातो मन्त्रतन्त्रविशारदः ।\nशिष्यो हि वैनतेयस्य शङ्करस्योपशिष्यकः ॥”\nइति ब्रह्मवैवर्त्ते श्रीकृष्णजन्मखण्डे ५१ अध्यायः ॥"
+        }
+    ]
+  }
+]

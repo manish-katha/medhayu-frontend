@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "convo-1",
+    "type": "dm",
+    "participants": [
+      { "id": "researcher@vakyaverse.com", "name": "Admin User", "avatarUrl": "/media/pexels-life-of-pix-7974.jpg" },
+      { "id": "meera.rao@example.com", "name": "Vidushi Meera Rao", "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+    ],
+    "lastMessage": {
+      "text": "Yes, I will send over the manuscript details shortly. Thanks!",
+      "timestamp": 1752000000000
+    },
+    "isOnline": true
+  },
+  {
+    "id": "convo-2",
+    "type": "group",
+    "name": "Vedic Scholars Circle",
+    "participants": [
+      { "id": "researcher@vakyaverse.com", "name": "Admin User", "avatarUrl": "/media/pexels-life-of-pix-7974.jpg" },
+      { "id": "ananda.sharma@example.com", "name": "Dr. Ananda Sharma", "avatarUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+      { "id": "meera.rao@example.com", "name": "Vidushi Meera Rao", "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+    ],
+    "lastMessage": {
+      "text": "Dr. Sharma: The interpretation of that sutra is quite fascinating.",
+      "timestamp": 1751980000000
+    },
+    "isOnline": false,
+    "avatarUrl": "/media/vedic_group.png"
+  },
+  {
+    "id": "convo-3",
+    "type": "dm",
+    "participants": [
+      { "id": "researcher@vakyaverse.com", "name": "Admin User", "avatarUrl": "/media/pexels-life-of-pix-7974.jpg" },
+      { "id": "acharya.k@example.com", "name": "Acharya Krishnan", "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+    ],
+    "lastMessage": {
+      "text": "I'm looking forward to our discussion on the Nyāya school.",
+      "timestamp": 1751850000000
+    },
+    "isOnline": true
+  }
+]

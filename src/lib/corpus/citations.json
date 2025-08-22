@@ -1,0 +1,85 @@
+[
+  {
+    "id": "uncategorized",
+    "name": "Uncategorized",
+    "citations": []
+  },
+  {
+    "id": "charaka-samhita",
+    "name": "Charaka Samhita",
+    "citations": [
+      {
+        "refId": "CS_Sutra_27.297",
+        "keywords": [
+          "agni",
+          "digestive fire",
+          "pachaka",
+          "srotas"
+        ],
+        "sanskrit": "अग्निर्हि शारीरे पित्तेऽन्तर्वर्ती कुपिताकुपितः शुभाशुभानि करोति।",
+        "translation": "Agni, which is located within the Pitta in the body, when aggravated or not, produces good and bad effects.",
+        "source": "Charaka Samhita",
+        "location": "Sutrasthana 27.297"
+      },
+      {
+        "refId": "CS_Vimana_5.3",
+        "keywords": [
+          "rasa",
+          "taste",
+          "dravya"
+        ],
+        "sanskrit": "रसो निपाते द्रव्याणां...",
+        "translation": "The taste (rasa) of substances is perceived at the time of their contact with the tongue...",
+        "source": "Charaka Samhita",
+        "location": "Vimanasthana 5.3"
+      }
+    ]
+  },
+  {
+    "id": "ashtanga-hrudayam",
+    "name": "Ashtanga Hrudayam",
+    "citations": [
+      {
+        "refId": "AH_Sutra_11.3",
+        "keywords": [
+          "agni",
+          "dosha"
+        ],
+        "sanskrit": "जीर्यत्यन्नं समानवायोः प्रभावात्...",
+        "translation": "Food gets digested by the action of Samana Vayu...",
+        "source": "Ashtanga Hrudayam",
+        "location": "Sutrasthana 11.3"
+      }
+    ]
+  },
+  {
+    "id": "user-saved-notes",
+    "name": "User-Saved Notes",
+    "citations": [
+      {
+        "sanskrit": "धन्वन्तरिः",
+        "source": "Bhagavdgeeta",
+        "location": "अर्जुन विषादयोग - 3",
+        "translation": "testing data",
+        "refId": "user-1753791741618",
+        "keywords": [],
+        "english": "testing data"
+      },
+      {
+        "refId": "user-bhagavdgeeta-3",
+        "sanskrit": "स्थानं कर्म च रोगांश्च वदस्व वदतांवर’ (नि. अ. १)",
+        "translation": "testing",
+        "keywords": [
+          "test"
+        ],
+        "source": "Bhagavdgeeta",
+        "location": "अर्जुन विषादयोग - 3"
+      }
+    ]
+  },
+  {
+    "id": "personal",
+    "name": "personal",
+    "citations": []
+  }
+]

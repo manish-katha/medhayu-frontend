@@ -1,0 +1,60 @@
+
+[
+  {
+    "id": 101,
+    "patientId": 1,
+    "date": "2023-10-15T10:00:00.000Z",
+    "doctor": "Dr. Acharya Sharma",
+    "complaint": "Increased thirst and frequent urination.",
+    "diagnosis": "Madhumeha (Diabetes Mellitus) with Vata-Pitta aggravation.",
+    "prescriptionId": "RX-001",
+    "trackProgress": true
+  },
+  {
+    "id": 102,
+    "patientId": 1,
+    "date": "2023-11-15T10:30:00.000Z",
+    "doctor": "Dr. Acharya Sharma",
+    "complaint": "Follow-up for diabetes management.",
+    "diagnosis": "Blood sugar levels showing improvement. Continue with protocol.",
+    "prescriptionId": "RX-002",
+    "trackProgress": true
+  },
+  {
+    "id": 201,
+    "patientId": 2,
+    "date": "2023-09-22T11:30:00.000Z",
+    "doctor": "Dr. Acharya Sharma",
+    "complaint": "Severe joint pain and swelling, morning stiffness.",
+    "diagnosis": "Amavata (Rheumatoid Arthritis) with significant ama.",
+    "prescriptionId": "RX-003",
+    "trackProgress": true
+  },
+  {
+    "id": 301,
+    "patientId": 3,
+    "date": "2023-11-01T09:00:00.000Z",
+    "doctor": "Dr. Priya Verma",
+    "complaint": "Itchy, scaly patches on elbows and knees.",
+    "diagnosis": "Kitibha (Psoriasis) due to Pitta-Kapha imbalance.",
+    "prescriptionId": "RX-004"
+  },
+  {
+    "id": 401,
+    "patientId": 4,
+    "date": "2023-11-05T14:00:00.000Z",
+    "doctor": "Dr. Priya Verma",
+    "complaint": "Debilitating headaches with sensitivity to light.",
+    "diagnosis": "Ardhavabhedaka (Migraine) with Vata provocation.",
+    "prescriptionId": "RX-005"
+  },
+  {
+    "id": 501,
+    "patientId": 5,
+    "date": "2023-10-28T16:00:00.000Z",
+    "doctor": "Dr. Acharya Sharma",
+    "complaint": "Consistently high blood pressure readings.",
+    "diagnosis": "Rakta Gata Vata (Hypertension).",
+    "prescriptionId": "RX-006"
+  }
+]

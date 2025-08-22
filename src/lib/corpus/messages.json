@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "msg-1",
+    "conversationId": "convo-1",
+    "authorId": "meera.rao@example.com",
+    "content": "Namaste, I've reviewed the draft of the Bhagavad Gita commentary. Excellent work.",
+    "timestamp": 1751999800000,
+    "read": true,
+    "type": "text"
+  },
+  {
+    "id": "msg-2",
+    "conversationId": "convo-1",
+    "authorId": "researcher@vakyaverse.com",
+    "content": "Thank you, Vidushi Rao. Your feedback on chapter 2 was particularly insightful.",
+    "timestamp": 1751999900000,
+    "read": true,
+    "type": "text"
+  },
+  {
+    "id": "msg-3",
+    "conversationId": "convo-1",
+    "authorId": "meera.rao@example.com",
+    "content": "Yes, I will send over the manuscript details shortly. Thanks!",
+    "timestamp": 1752000000000,
+    "read": false,
+    "type": "text"
+  },
+  {
+    "id": "msg-4",
+    "conversationId": "convo-2",
+    "authorId": "ananda.sharma@example.com",
+    "content": "The interpretation of that sutra is quite fascinating.",
+    "timestamp": 1751980000000,
+    "read": true,
+    "type": "text"
+  }
+]

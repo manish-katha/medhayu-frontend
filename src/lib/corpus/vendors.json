@@ -1,0 +1,40 @@
+
+[
+  {
+    "id": "vendor-1",
+    "name": "Herbal Suppliers Ltd.",
+    "contactPerson": "Mr. Ramesh Gupta",
+    "phone": "9876543210",
+    "email": "sales@herbalsuppliers.com",
+    "address": "456 Herb Lane, Green Valley, Pune, 411001",
+    "gstin": "27FGHIJ5678K1Z3",
+    "pan": "ABCDE1234F"
+  },
+  {
+    "id": "vendor-2",
+    "name": "Ayurveda Products Inc.",
+    "contactPerson": "Ms. Priya Singh",
+    "phone": "9988776655",
+    "email": "contact@ayurvedainc.com",
+    "address": "789 Wellness Road, Nashik, 422001",
+    "gstin": "27LMNOP1234Q1Z2",
+    "pan": "GHIJK5678L",
+    "bankDetails": {
+      "accountHolderName": "Ayurveda Products Inc.",
+      "accountNumber": "123456789012",
+      "bankName": "HDFC Bank",
+      "ifscCode": "HDFC0001234"
+    }
+  },
+  {
+    "id": "vendor-3",
+    "name": "Natural Extracts Co.",
+    "contactPerson": "Mr. Anil Kumar",
+    "phone": "9123456789",
+    "email": "anil.k@naturalextracts.co",
+    "address": "B-12, Industrial Area, Haridwar, 249401",
+    "gstin": "05ABCDE1234F1Z5",
+    "pan": "PQRST9876U",
+    "upiId": "naturalextracts@upi"
+  }
+]

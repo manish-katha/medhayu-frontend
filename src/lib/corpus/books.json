@@ -1,0 +1,49 @@
+[
+  {
+    "id": "bhagavdgeeta",
+    "name": "Bhagavdgeeta",
+    "categoryId": "itihasa",
+    "visibility": "private",
+    "isAnnounced": true,
+    "coverUrl": "/media/bhagavad-gita-kurukshetra-war-6mqhvc2vk2ab24l3.jpg",
+    "profileUrl": "/media/geeta cover.jpg",
+    "volumeInfo": {
+      "seriesName": "bhagavdgeeta",
+      "volumeNumber": 1
+    },
+    "ownerId": "researcher@vakyaverse.com",
+    "shortDescription": "The Bhagavad Gita, often referred to as the Gita, is a Hindu scripture, dated to the second or first century BCE, which forms part of the epic poem Mahabharata. The Gita is a synthesis of various strands of Indian religious thought, including the Vedic concept of dharma; samkhya-based yoga and jnana; and bhakti."
+  },
+  {
+    "id": "bhagavdgeeta-2",
+    "name": "Bhagavdgeeta 2",
+    "categoryId": "itihasa",
+    "visibility": "private",
+    "isAnnounced": false,
+    "coverUrl": "https://placehold.co/800x400.png",
+    "profileUrl": "https://placehold.co/400x600.png",
+    "volumeInfo": {
+      "seriesName": "bhagavdgeeta",
+      "volumeNumber": 2
+    },
+    "ownerId": "researcher@vakyaverse.com",
+    "shortDescription": "The Bhagavad Gita, often referred to as the Gita, is a Hindu scripture, dated to the second or first century BCE, which forms part of the epic poem Mahabharata. The Gita is a synthesis of various strands of Indian religious thought, including the Vedic concept of dharma; samkhya-based yoga and jnana; and bhakti."
+  },
+  {
+    "id": "new",
+    "name": "new",
+    "author": "aa",
+    "description": "",
+    "categoryId": "kavya"
+  },
+  {
+    "id": "simple",
+    "name": "simple",
+    "categoryId": "itihasa",
+    "visibility": "private",
+    "isAnnounced": false,
+    "coverUrl": "https://placehold.co/800x400.png",
+    "profileUrl": "https://placehold.co/400x600.png",
+    "ownerId": "researcher@vakyaverse.com"
+  }
+]

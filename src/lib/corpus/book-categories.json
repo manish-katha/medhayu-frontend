@@ -1,0 +1,9 @@
+
+[
+  { "id": "itihasa", "name": "Itihasa (इतिहास)" },
+  { "id": "purana", "name": "Purana (पुराण)" },
+  { "id": "shruti", "name": "Shruti (श्रुति)" },
+  { "id": "smriti", "name": "Smriti (स्मृति)" },
+  { "id": "kavya", "name": "Kavya (काव्य)" },
+  { "id": "shastra", "name": "Shastra (शास्त्र)" }
+]

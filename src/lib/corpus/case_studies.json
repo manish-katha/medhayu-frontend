@@ -1,0 +1,148 @@
+[
+  {
+    "id": "cs-1753208703130",
+    "date": "2025-07-22T18:25:03.130Z",
+    "patientId": 1,
+    "title": "Case Study: Blood sugar levels showing improvement. Continue with protocol.",
+    "condition": "Blood sugar levels showing improvement. Continue with protocol.",
+    "summary": "Case study for Aarav Sharma concerning Blood sugar levels showing improvement. Continue with protocol., created on July 21st, 2025.",
+    "version": "1.0",
+    "clinicalPresentation": {
+      "chiefComplaint": "Increased frequency of urination and persistent thirst.",
+      "associatedComplaints": "N/A",
+      "visitComplaint": "Follow-up for diabetes management."
+    },
+    "medicationProtocol": {
+      "medicines": [
+        {
+          "name": "Yogaraja Guggulu",
+          "dosage": "2 tablets",
+          "timing": "After Food"
+        },
+        {
+          "name": "Nishamalaki",
+          "dosage": "1 tablet",
+          "timing": "Before Food"
+        }
+      ],
+      "specialInstructions": "Continue with light yoga and stretching."
+    },
+    "diagnosticFindings": {
+      "reports": []
+    },
+    "ayurvedicAssessment": {
+      "diagnosis": "Blood sugar levels showing improvement. Continue with protocol.",
+      "doshaImbalance": "Vata-Pitta"
+    },
+    "treatmentPlan": {
+      "diet": "Continue with the previous diet plan. Monitor blood sugar levels regularly.",
+      "lifestyle": "Recommended regular yoga."
+    },
+    "outcomes": {
+      "progressNotes": "Patient reported improvement in subsequent visits.",
+      "conclusion": "The protocol was effective."
+    },
+    "patientDetails": {
+      "name": "Aarav Sharma",
+      "age": 48,
+      "gender": "Male",
+      "oid": "OID/OSD-1001-240701",
+      "cin": "OPDO-1"
+    },
+    "isPublic": false
+  },
+  {
+    "id": "cs-1753111073045",
+    "date": "2025-07-21T15:17:53.045Z",
+    "patientId": 1,
+    "title": "Case Study: Blood sugar levels showing improvement. Continue with protocol.",
+    "condition": "Blood sugar levels showing improvement. Continue with protocol.",
+    "summary": "Case study for Aarav Sharma concerning Blood sugar levels showing improvement. Continue with protocol., created on July 21st, 2025.",
+    "isPublic": false,
+    "version": "1.0",
+    "patientDetails": {
+      "name": "Aarav Sharma",
+      "age": 48,
+      "gender": "Male",
+      "oid": "OID/OSD-1001-240701",
+      "cin": "OPDO-1"
+    },
+    "clinicalPresentation": {
+      "chiefComplaint": "Increased frequency of urination and persistent thirst.",
+      "associatedComplaints": "N/A",
+      "visitComplaint": "Follow-up for diabetes management."
+    },
+    "medicationProtocol": {
+      "medicines": [
+        {
+          "id": 1,
+          "name": "Yogaraja Guggulu",
+          "dosage": "2 tablets",
+          "timing": "After Food",
+          "anupaan": "उष्ण जल (Warm Water)"
+        },
+        {
+          "id": 2,
+          "name": "Nishamalaki",
+          "dosage": "1 tablet",
+          "timing": "Before Food",
+          "anupaan": "उष्ण जल (Warm Water)"
+        }
+      ],
+      "specialInstructions": "Continue with light yoga and stretching."
+    },
+    "diagnosticFindings": {
+      "reports": []
+    },
+    "ayurvedicAssessment": {
+      "diagnosis": "Blood sugar levels showing improvement. Continue with protocol.",
+      "doshaImbalance": "Vata-Pitta"
+    },
+    "treatmentPlan": {
+      "diet": "Continue with the previous diet plan. Monitor blood sugar levels regularly.",
+      "lifestyle": "Recommended regular yoga."
+    },
+    "outcomes": {
+      "progressNotes": "Patient reported improvement in subsequent visits.",
+      "conclusion": "The protocol was effective."
+    }
+  },
+  {
+    "id": "cs-001",
+    "patientId": 1,
+    "title": "Management of Madhumeha (Diabetes)",
+    "condition": "Type 2 Diabetes Mellitus",
+    "summary": "Patient presented with classic symptoms of Madhumeha. A protocol involving herbal formulations and diet was initiated.",
+    "date": "2023-10-15T00:00:00.000Z",
+    "isPublic": true,
+    "version": "1.0",
+    "content": {
+      "demographics": {},
+      "clinicalPresentation": {},
+      "reportsSummary": {},
+      "prescriptionHistory": {},
+      "ayurvedaAssessment": {},
+      "managementPlan": {},
+      "conclusion": {}
+    }
+  },
+  {
+    "id": "cs-002",
+    "patientId": 2,
+    "title": "Resolution of Amavata (Rheumatoid Arthritis)",
+    "condition": "Rheumatoid Arthritis",
+    "summary": "6-month protocol involving Virechana and Basti resulted in complete remission of joint pain and swelling.",
+    "date": "2023-09-22T00:00:00.000Z",
+    "isPublic": false,
+    "version": "1.0",
+    "content": {
+      "demographics": {},
+      "clinicalPresentation": {},
+      "reportsSummary": {},
+      "prescriptionHistory": {},
+      "ayurvedaAssessment": {},
+      "managementPlan": {},
+      "conclusion": {}
+    }
+  }
+]

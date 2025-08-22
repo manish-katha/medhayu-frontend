@@ -1,0 +1,44 @@
+
+{
+  "name": "Admin User",
+  "email": "researcher@vakyaverse.com",
+  "avatarUrl": "/media/pexels-life-of-pix-7974.jpg",
+  "coverUrl": "/media/wp10610074-mountain-at-night-wallpapers.jpg",
+  "coverPosition": "50% 50%",
+  "bio": "A passionate researcher dedicated to exploring the depths of Vedic and Puranic literature. My work focuses on digital humanities and making ancient texts accessible to a modern audience.",
+  "education": [
+    {
+      "institution": "University of Nalanda",
+      "degree": "Ph.D. in Indology",
+      "fieldOfStudy": "Comparative Philosophy and Sanskrit Studies",
+      "startYear": "2012",
+      "endYear": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "company": "VakyaVerse Foundation",
+      "title": "Lead Researcher",
+      "startYear": "2017",
+      "endYear": "Present"
+    }
+  ],
+  "skills": [
+    "Sanskrit",
+    "Digital Humanities",
+    "Manuscriptology",
+    "Vedanta",
+    "Nyaya"
+  ],
+  "links": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "website": "https://vakyaverse.com"
+  },
+  "preferredAiName": "",
+  "stats": {
+    "views": 142,
+    "messages": 23,
+    "circles": 5
+  }
+}

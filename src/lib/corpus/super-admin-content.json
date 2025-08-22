@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "5252efd2-02e4-478d-9c71-436b186cd02f",
+    "originalContentId": "dharmantaray",
+    "contentType": "glossary-term",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/glossary",
+    "content": {
+      "id": "dharmantaray",
+      "term": "धन्वन्तरिः",
+      "transliteration": "dhanvantariḥ",
+      "definition": "पुं, (धनुरुपलक्षणत्वात् शल्यादि-\r\n\r\nचिकित्साशास्त्रं तस्य अन्तं ऋच्छतीति ।\r\nऋ गतौ + “अच इः ।” उणां ४ । १३८ । इति\r\nइः ।) देववैद्यः । स भगवदवतारः । यथा, --\r\n“धन्वन्तरिश्च भगवान् स्वयमेव कीर्त्ति-\r\nर्नाम्ना नृणां पुरुरुजां रुज आशु हन्ति ।\r\nयज्ञे च भागममृतायुरवावरुन्ध\r\nआयुष्यवेदमनुशास्त्यवतीर्य्य लोके ॥\r\nस वै भगवतः साक्षात् विष्णोरंशांशसम्भवः ।\r\nधन्वन्तरिरिति ख्यात आयुर्व्वेददृगिज्यभाक् ॥”\r\nइति श्रीभागवतम् ॥ * ॥\r\n“नारायणांशो भगवान् स्वयं धन्वन्तरिर्महान् ।\r\nपुरा समुद्रमथने समुत्तस्थौ महोदधेः ॥\r\nसर्व्ववेदेषु निष्णातो मन्त्रतन्त्रविशारदः ।\r\nशिष्यो हि वैनतेयस्य शङ्करस्योपशिष्यकः ॥”\r\nइति ब्रह्मवैवर्त्ते श्रीकृष्णजन्मखण्डे ५१ अध्यायः ॥"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987776,
+    "updatedAt": 1752139002472
+  },
+  {
+    "id": "18ada1f8-7332-4ca8-beb6-eaff437b809c",
+    "originalContentId": "30e84c1d-be3c-492f-86ea-8ad085add75f",
+    "contentType": "quote",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/quotes",
+    "content": {
+      "id": "30e84c1d-be3c-492f-86ea-8ad085add75f",
+      "title": "Nature of reality",
+      "quote": "The whole creation is made up of trio. The three elements of the nature unite as trio create this Triatic creation. ",
+      "author": "Acharya Mahanidhi"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987770,
+    "updatedAt": 1752138987770
+  },
+  {
+    "id": "d68dd083-4679-41d1-8f84-24e229cc248b",
+    "originalContentId": "0fcff853-821b-439c-b938-e49d1ba7554c",
+    "contentType": "quote",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/quotes",
+    "content": {
+      "id": "0fcff853-821b-439c-b938-e49d1ba7554c",
+      "title": "testing",
+      "quote": "हास्यशीलतावृद्धये च इयं रचना किञ्चित्करी चेत् अयं लेखकः कृतार्थः नूनम् । ",
+      "author": "Gurunatha ji"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987770,
+    "updatedAt": 1752138987770
+  },
+  {
+    "id": "2df094b1-e4b9-4989-9536-bdb6c8be1409",
+    "originalContentId": "CS_Sutra_27.297",
+    "contentType": "citation",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/citations/charaka-samhita",
+    "content": {
+      "refId": "CS_Sutra_27.297",
+      "keywords": [
+        "agni",
+        "digestive fire",
+        "pachaka",
+        "srotas"
+      ],
+      "sanskrit": "अग्निर्हि शारीरे पित्तेऽन्तर्वर्ती कुपिताकुपितः शुभाशुभानि करोति।",
+      "translation": "Agni, which is located within the Pitta in the body, when aggravated or not, produces good and bad effects.",
+      "source": "Charaka Samhita",
+      "location": "Sutrasthana 27.297"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987763,
+    "updatedAt": 1752293304548
+  },
+  {
+    "id": "4b7b2b97-0c1c-4416-8bda-c111e05be698",
+    "originalContentId": "CS_Vimana_5.3",
+    "contentType": "citation",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/citations/charaka-samhita",
+    "content": {
+      "refId": "CS_Vimana_5.3",
+      "keywords": [
+        "rasa",
+        "taste",
+        "dravya"
+      ],
+      "sanskrit": "रसो निपाते द्रव्याणां...",
+      "translation": "The taste (rasa) of substances is perceived at the time of their contact with the tongue...",
+      "source": "Charaka Samhita",
+      "location": "Vimanasthana 5.3"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987763,
+    "updatedAt": 1752138987763
+  },
+  {
+    "id": "7ab659fa-ddd1-4cd1-9754-7bfeac7fea82",
+    "originalContentId": "AH_Sutra_11.3",
+    "contentType": "citation",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/citations/ashtanga-hrudayam",
+    "content": {
+      "refId": "AH_Sutra_11.3",
+      "keywords": [
+        "agni",
+        "dosha"
+      ],
+      "sanskrit": "जीर्यत्यन्नं समानवायोः प्रभावात्...",
+      "translation": "Food gets digested by the action of Samana Vayu...",
+      "source": "Ashtanga Hrudayam",
+      "location": "Sutrasthana 11.3"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987763,
+    "updatedAt": 1752138987763
+  },
+  {
+    "id": "424f132b-e2fe-4521-b3c9-0c3974cb7fe4",
+    "originalContentId": "user-bhagavdgeeta-3",
+    "contentType": "citation",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/citations/user-saved-notes",
+    "content": {
+      "refId": "user-bhagavdgeeta-3",
+      "sanskrit": "स्थानं कर्म च रोगांश्च वदस्व वदतांवर’ (नि. अ. १)",
+      "translation": "testing",
+      "keywords": [
+        "test"
+      ],
+      "source": "Bhagavdgeeta",
+      "location": "अर्जुन विषादयोग - 3"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987763,
+    "updatedAt": 1752138987763
+  },
+  {
+    "id": "8039cdc2-f717-40ed-a4e3-7aeb1a57850b",
+    "originalContentId": "test",
+    "contentType": "standalone-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/articles/edit/test",
+    "content": {
+      "title": "test",
+      "content": "<p style=\"text-align: justify\">सहस्राक्षं [१] गणाधीशं स्वगुरुं च सरस्वतीम्|</p><p style=\"text-align: justify\">जनकं जनयित्रीं च शास्त्रादौ प्रणमाम्यहम्||</p><p style=\"text-align: justify\">समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे अङ्कोलानामकं वैद्यस्थानमस्ति| यत्र सौरवंशजा ब्राह्मणाः समस्तभूमिपतिमान्या अश्विनीकुमारसमानाः पार्वणचन्द्ररुचियशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः समजनि, तत्तनयश्च समस्तशास्त्रार्थतत्त्वज्ञो भरतपालः सञ्जातः, तत्पुत्रः स्वकुलनभस्तलचन्द्रमा [२] विवेकबृहस्पतिः श्रीसहपालदेवनृपतिवल्लभः श्रीडल्हणः समभूत्| तेन श्रीजेज्जटं टीकाकारं श्रीगयदासभास्करौ च पञ्जिकाकारौ श्रीमाधवब्रह्मदेवादीन् टीप्पनकारांश्चोपजीव्य, आयुर्वेदशास्त्रसुश्रुतव्याख्यानाय निबन्धसङ्ग्रहः क्रियते| यद्यपि सुश्रुतोपरि जेज्जटादिभिष्टीका रचिताः, तथाऽपि तासां कुशाग्रीयधियामभिगम्यत्वादल्पमेधसामनुग्रहाय सुश्रुतं व्याख्यातुकामस्य मम प्रयासः सफलः|</p>",
+      "type": "article",
+      "categoryId": "uncategorized",
+      "id": "test",
+      "createdAt": 1751814580491,
+      "updatedAt": 1751814580491,
+      "ownerId": "researcher@vakyaverse.com",
+      "feedback": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "views": 0,
+        "scores": []
+      },
+      "visibility": "private",
+      "circleIds": [],
+      "isAnnounced": false
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987757,
+    "updatedAt": 1752138987757
+  },
+  {
+    "id": "11af8fe5-f2fc-4a3e-9acd-820c88329934",
+    "originalContentId": "simple",
+    "contentType": "book",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/books/simple",
+    "content": {
+      "id": "simple",
+      "name": "simple",
+      "categoryId": "itihasa",
+      "visibility": "private",
+      "isAnnounced": false,
+      "coverUrl": "https://placehold.co/800x400.png",
+      "profileUrl": "https://placehold.co/400x600.png",
+      "ownerId": "researcher@vakyaverse.com"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987751,
+    "updatedAt": 1752138987751
+  },
+  {
+    "id": "d336ad14-6492-48f1-8c6a-47af7d0f7098",
+    "originalContentId": "bhagavdgeeta-chapter-1751472354658-1",
+    "contentType": "book-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/articles/bhagavdgeeta/chapter-1751472354658/1",
+    "content": {
+      "verse": "1",
+      "title": "Article 1",
+      "content": [
+        {
+          "id": "0fabb789-66cd-41b3-84a2-cea885dbf260",
+          "type": "shloka",
+          "sanskrit": "<p style=\"text-align: justify\">सहस्राक्षं [१] गणाधीशं स्वगुरुं च सरस्वतीम्|</p><p style=\"text-align: justify\">जनकं जनयित्रीं च शास्त्रादौ प्रणमाम्यहम्||</p><p style=\"text-align: justify\">समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे अङ्कोलानामकं वैद्यस्थानमस्ति| यत्र सौरवंशजा ब्राह्मणाः समस्तभूमिपतिमान्या अश्विनीकुमारसमानाः पार्वणचन्द्ररुचियशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः समजनि, तत्तनयश्च समस्तशास्त्रार्थतत्त्वज्ञो भरतपालः सञ्जातः, तत्पुत्रः स्वकुलनभस्तलचन्द्रमा [२] विवेकबृहस्पतिः श्रीसहपालदेवनृपतिवल्लभः श्रीडल्हणः समभूत्| तेन श्रीजेज्जटं टीकाकारं श्रीगयदासभास्करौ च पञ्जिकाकारौ श्रीमाधवब्रह्मदेवादीन् टीप्पनकारांश्चोपजीव्य, आयुर्वेदशास्त्रसुश्रुतव्याख्यानाय निबन्धसङ्ग्रहः क्रियते| यद्यपि सुश्रुतोपरि जेज्जटादिभिष्टीका रचिताः, तथाऽपि तासां कुशाग्रीयधियामभिगम्यत्वादल्पमेधसामनुग्रहाय सुश्रुतं व्याख्यातुकामस्य मम प्रयासः सफलः|</p>",
+          "originalLang": "sa",
+          "translations": {
+            "en": "<p style=\"text-align: justify\"><span data-sanskrit-text=\"true\">सहस्राक्षं</span> [१] <span data-sanskrit-text=\"true\">गणाधीशं</span> <span data-sanskrit-text=\"true\">स्वगुरुं</span> <span data-sanskrit-text=\"true\">च</span> <span data-sanskrit-text=\"true\">सरस्वतीम्</span>|</p><p style=\"text-align: justify\"><span data-sanskrit-text=\"true\">जनकं</span> <span data-sanskrit-text=\"true\">जनयित्रीं</span> <span data-sanskrit-text=\"true\">च</span> <span data-sanskrit-text=\"true\">शास्त्रादौ</span> <span data-sanskrit-text=\"true\">प्रणमाम्यहम्</span>||</p><p style=\"text-align: justify\">In the form of a jewel in the land of all people, there is a medical site called Ankola near the city of Mathura in the country of Shribhadanaka. There, Brahmins of the Solar dynasty, respected by all landlords, equal to the Ashwini Kumaras, with the glory of the moon of Parvana, who adorned the directions, became physicians. In that lineage, there was a jewel among physicians named Govinda, then his son, Jayapala, the crest jewel among physicians, was born; then his son, Bharatpala, who knew the essence of all scriptures, was born; his son, the moon in the sky of his family [2], Vivekabrhaspati, Shri Dalhana, the beloved of King Shri Sahapaladeva, was born. He, having studied Shri Jejjaṭa as a commentator, Shri Gayadasa and Bhaskara as compilers, and Shri Madhava, Brahmadeva, and others as commentators, is making a collection of essays for the explanation of Ayurveda Shastra Sushruta. Although commentaries on Sushruta have been composed by Jejjaṭa and others, their sharp intellect being difficult to access, my effort to explain Sushruta is successful for the benefit of those of lesser intellect.</p>",
+            "hi": "<p style=\"text-align: justify\"><span data-sanskrit-text=\"true\">सहस्राक्षं</span> [१] <span data-sanskrit-text=\"true\">गणाधीशं</span> <span data-sanskrit-text=\"true\">स्वगुरुं</span> <span data-sanskrit-text=\"true\">च</span> <span data-sanskrit-text=\"true\">सरस्वतीम्</span>|</p><p style=\"text-align: justify\"><span data-sanskrit-text=\"true\">जनकं</span> <span data-sanskrit-text=\"true\">जनयित्रीं</span> <span data-sanskrit-text=\"true\">च</span> <span data-sanskrit-text=\"true\">शास्त्रादौ</span> <span data-sanskrit-text=\"true\">प्रणमाम्यहम्</span>||</p><p style=\"text-align: justify\">सहस्राक्षं [1] गणाधीश, अपने गुरु और सरस्वती को।</p><p style=\"text-align: justify\">जनक, जनयित्रीं च शास्त्रादौ प्रणाम्याम्यहम्||</p><p style=\"text-align: justify\">समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे <span data-sanskrit-text=\"true\">अङ्कोलानामकं</span> वैद्यस्थानमस्ति| यत्र सौरवंशजा ब्राह्मणाः समस्तभूमिपतिमान्या अश्विनीकुमारसमानाः पार्वणचन्द्ररुचियशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः समजनि, तत्तनयश्च समस्तशास्त्रार्थतत्त्वज्ञो भरतपालः सञ्जातः, तत्पुत्रः स्वकुलनभस्तलचन्द्रमा [२] विवेकबृहस्पतिः श्रीसहपालदेवनृपतिवल्लभः श्रीडल्हणः समभूत्| तेन श्रीजेज्जटं टीकाकारं श्रीगयदासभास्करौ च पञ्जिकाकारौ श्रीमाधवब्रह्मदेवादीन् टीप्पनकारांश्चोपजीव्य, आयुर्वेदशास्त्रसुश्रुतव्याख्यानाय निबन्धसङ्ग्रहः क्रियते| यद्यपि सुश्रुतोपरि जेज्जटादिभिष्टीका रचिताः, तथाऽपि तासां कुशाग्रीयधियामभिगम्यत्वादल्पमेधसामनुग्रहाय सुश्रुतं व्याख्यातुकामस्य मम प्रयासः सफलः|</p><p style=\"text-align: justify\">समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे अङ्कोलानामकं वैद्यस्थानमस्ति| जहाँ सौर वंश में जन्मे ब्राह्मण, समस्त भूमिपतिमान्य, अश्विनीकुमार के समान, पार्वणचंद्ररुचियशःप्रसाधितदिङ्मण्डला वैद्य हुए। उनके वंश में गोविन्द नाम के चिकित्सकशिरोमणि हुए, फिर उनके पुत्र भिषक्शिरोमुकुटमणि जयपाल हुए, उनके पुत्र समस्तशास्त्रार्थतत्त्वज्ञ भरतपाल हुए, उनके पुत्र स्वकुलनभस्तलचंद्रमा [2] विवेकबृहस्पति श्रीसहपालदेवनृपतिवल्लभ श्रीडल्हण हुए। उन्होंने श्रीजेज्जटं टीकाकार, श्रीगयदासभास्कर और पञ्जिकाकार श्रीमाधवब्रह्मदेव आदि टीप्पनकारों का उपयोग करके, आयुर्वेदशास्त्रसुश्रुतव्याख्या के लिए निबन्धसंग्रह किया। यद्यपि सुश्रुत के ऊपर जेज्जट आदि ने टीकाएँ रची हैं, तथापि उनकी कुशाग्रीयधियामभिगम्यता के कारण अल्पमेधसामनुग्रह के लिए सुश्रुत को व्याख्यायित करने के इच्छुक मेरे प्रयास सफल हों।</p>",
+            "kn": "<p style=\"text-align: justify\"><span data-sanskrit-text=\"true\">सहस्राक्षं</span> [೧] <span data-sanskrit-text=\"true\">गणाधीशं</span> <span data-sanskrit-text=\"true\">स्वगुरुं</span> <span data-sanskrit-text=\"true\">च</span> <span data-sanskrit-text=\"true\">सरस्वतीम्</span>|</p><p style=\"text-align: justify\"><span data-sanskrit-text=\"true\">जनकं</span> <span data-sanskrit-text=\"true\">जनयित्रीं</span> <span data-sanskrit-text=\"true\">च</span> <span data-sanskrit-text=\"true\">शास्त्रादौ</span> <span data-sanskrit-text=\"true\">प्रणमाम्यहम्</span>||</p><p style=\"text-align: justify\">ಸಮಸ್ತಜನಪದತಿಲಕಕಲ್ಪೆ <span data-sanskrit-text=\"true\">ಶ್ರೀಭಾದಾನಕದೇಶೇ</span> <span data-sanskrit-text=\"true\">ನಗರೀವರಮಥುರಾಸಮೀಪೇ</span> <span data-sanskrit-text=\"true\">ಅಂಕೋಲಾನಾಮಕಂ</span> ವೈದ್ಯಸ್ಥಾನಮಸ್ತಿ| <span data-sanskrit-text=\"true\">ಯತ್ರ</span> <span data-sanskrit-text=\"true\">ಸೌರवंशಜಾ</span> <span data-sanskrit-text=\"true\">ಬ್ರಾಹ್ಮణాಃ</span> <span data-sanskrit-text=\"true\">ಸಮಸ್ತಭೂಮಿಪತಿಮಾನ್ಯಾ</span> <span data-sanskrit-text=\"true\">ಅಶ್ವಿನೀಕುಮಾರಸಮಾನಾಃ</span> <span data-sanskrit-text=\"true\">ಪಾರ್ವಣಚಂದ್ರರುಚಿಯಶಃಪ್ರಸಾಧಿತದಿಙ್ಮಣ್ಡಲಾ</span> ವೈದ್ಯಾ <span data-sanskrit-text=\"true\">ಅಭವನ್</span>| <span data-sanskrit-text=\"true\">ತದನ್ವಯೇ</span> <span data-sanskrit-text=\"true\">ಗೋವಿಂದನಾಮಾ</span> <span data-sanskrit-text=\"true\">ಚಿಕಿತ್ಸಕಶಿರೋಮಣಿರಭೂತ್</span>, <span data-sanskrit-text=\"true\">ತತಸ್ತತ್ಪುತ್ರೋ</span> <span data-sanskrit-text=\"true\">ಭಿಷಕ್ಶಿರೋಮುಕುಟಮಣಿರ್ಜಯಪಾಲಃ</span> <span data-sanskrit-text=\"true\">ಸಮಜನಿ</span>, <span data-sanskrit-text=\"true\">ತತ್ತನಯಶ್ಚ</span> <span data-sanskrit-text=\"true\">ಸಮಸ್ತಶಾಸ್ತ್ರಾರ್ಥತತ್ತ್ವಜ್ಞೋ</span> <span data-sanskrit-text=\"true\">ಭರತಪಾಲಃ</span> <span data-sanskrit-text=\"true\">ಸಞ್ಜಾತಃ</span>, <span data-sanskrit-text=\"true\">ತತ್ಪುತ್ರಃ</span> <span data-sanskrit-text=\"true\">ಸ್ವಕುಲನಭಸ್ತಲಚಂದ್ರಮಾ</span> [೨] <span data-sanskrit-text=\"true\">ವಿವೇಕಬೃಹಸ್ಪತಿಃ</span> <span data-sanskrit-text=\"true\">ಶ್ರೀಸಹಪಾಲದೇവനೃಪತಿವಲ್ಲಭಃ</span> <span data-sanskrit-text=\"true\">ಶ್ರೀಡಲ್ಹಣಃ</span> <span data-sanskrit-text=\"true\">ಸಮಭೂತ್</span>| <span data-sanskrit-text=\"true\">ತೇನ</span> <span data-sanskrit-text=\"true\">ಶ್ರೀಜೆಜ್ಜಟಂ</span> <span data-sanskrit-text=\"true\">ಟೀಕಾಕಾರಂ</span> <span data-sanskrit-text=\"true\">ಶ್ರೀಗಯದಾಸಭಾಸ್ಕರೌ</span> <span data-sanskrit-text=\"true\">ಚ</span> <span data-sanskrit-text=\"true\">ಪಞ್ಜಿಕಾಕಾರೌ</span> <span data-sanskrit-text=\"true\">ಶ್ರೀಮಾಧವಬ್ರಹ್ಮದೇವಾದೀನ್</span> <span data-sanskrit-text=\"true\">ಟೀಪ್ಪನಕಾರಾಂಶ್ಚೋಪಜೀವ್ಯ</span>, <span data-sanskrit-text=\"true\">ಆಯುರ್ವೇದಶಾಸ್ತ್ರಸುಶ್ರುತವ್ಯಾಖ್ಯಾನಾಯ</span> <span data-sanskrit-text=\"true\">ನಿಬನ್ಧಸಙ್ಗ್ರಹಃ</span> <span data-sanskrit-text=\"true\">ಕ್ರಿಯತೇ</span>| <span data-sanskrit-text=\"true\">ಯದ್ಯಪಿ</span> <span data-sanskrit-text=\"true\">ಸುಶ್ರುತೋಪರಿ</span> <span data-sanskrit-text=\"true\">ಜೆಜ್ಜಟಾದಿಭಿಷ್ಟೀಕಾ</span> <span data-sanskrit-text=\"true\">ರಚಿತಾಃ</span>, <span data-sanskrit-text=\"true\">ತಥಾऽಪಿ</span> <span data-sanskrit-text=\"true\">ತಾಸಾಂ</span> <span data-sanskrit-text=\"true\">ಕುಶಾಗ್ರೀಯಧಿಯಾಮಭಿಗಮ್ಯತ್ವಾದಲ್ಪಮೇಧಸಾಮನುಗ್ರಹಾಯ</span> <span data-sanskrit-text=\"true\">ಸುಶ್ರುತಂ</span> <span data-sanskrit-text=\"true\">ವ್ಯಾಖ್ಯಾತುಕಾಮಸ್ಯ</span> <span data-sanskrit-text=\"true\">ಮಮ</span> <span data-sanskrit-text=\"true\">ಪ್ರಯಾಸಃ</span> <span data-sanskrit-text=\"true\">ಸಫಲಃ</span>|</p>"
+          },
+          "glows": []
+        }
+      ],
+      "status": "published",
+      "tags": [],
+      "feedback": {
+        "likes": 0,
+        "dislikes": 0,
+        "scores": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 6,
+            "count": 0
+          },
+          {
+            "value": 7,
+            "count": 0
+          },
+          {
+            "value": 8,
+            "count": 0
+          },
+          {
+            "value": 9,
+            "count": 0
+          },
+          {
+            "value": 10,
+            "count": 0
+          }
+        ],
+        "insightful": 0,
+        "uplifting": 0
+      },
+      "comments": [
+        {
+          "id": "03bd7fe4-de17-4e00-9957-c38d29a73279",
+          "authorId": "anonymous",
+          "timestamp": 1751795520629,
+          "feedback": {
+            "likes": 0,
+            "dislikes": 0
+          },
+          "replies": [],
+          "targetText": "यशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः सम",
+          "title": "testing",
+          "body": "test footer",
+          "reasonTags": [
+            "Grammar",
+            "Wrong Reading",
+            "Text Mistake"
+          ]
+        }
+      ],
+      "author": {
+        "id": "vakyateam",
+        "name": "VakyaVerse Team",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+      },
+      "createdAt": 1749981120628,
+      "updatedAt": 1749981120628
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987596,
+    "updatedAt": 1752138987596
+  },
+  {
+    "id": "53a2f48f-4095-49e7-bdac-43361e2c01dc",
+    "originalContentId": "bhagavdgeeta-chapter-1751472354658-2",
+    "contentType": "book-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/articles/bhagavdgeeta/chapter-1751472354658/2",
+    "content": {
+      "verse": "2",
+      "title": "Article 2",
+      "content": [
+        {
+          "id": "f8afdf7b-b57d-43f7-9fea-773cc4ff2689",
+          "type": "shloka",
+          "sanskrit": "<p><span data-ref-id=\"CS_Sutra_27.297\" data-citation=\"true\"></span></p><p>सहस्राक्षं [१] गणाधीशं स्वगुरुं च सरस्वतीम्|</p><p>जनकं जनयित्रीं च शास्त्रादौ प्रणमाम्यहम्||</p><p>समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे अङ्कोलानामकं वैद्यस्थानमस्ति| यत्र सौरवंशजा ब्राह्मणाः समस्तभूमिपतिमान्या अश्विनीकुमारसमानाः पार्वणचन्द्ररुचियशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः समजनि, तत्तनयश्च समस्तशास्त्रार्थतत्त्वज्ञो भरतपालः सञ्जातः, तत्पुत्रः स्वकुलनभस्तलचन्द्रमा [२] विवेकबृहस्पतिः श्रीसहपालदेवनृपतिवल्लभः श्रीडल्हणः समभूत्| तेन श्रीजेज्जटं टीकाकारं श्रीगयदासभास्करौ च पञ्जिकाकारौ श्रीमाधवब्रह्मदेवादीन् टीप्पनकारांश्चोपजीव्य, आयुर्वेदशास्त्रसुश्रुतव्याख्यानाय निबन्धसङ्ग्रहः क्रियते| यद्यपि सुश्रुतोपरि जेज्जटादिभिष्टीका रचिताः, तथाऽपि तासां कुशाग्रीयधियामभिगम्यत्वादल्पमेधसामनुग्रहाय सुश्रुतं व्याख्यातुकामस्य मम प्रयासः सफलः|</p>",
+          "originalLang": "sa",
+          "translations": {
+            "hi": "<div data-sanskrit-text=\"true\"><p><span data-ref-id=\"CS_Sutra_27.297\" data-citation=\"true\"></span></p><p>सहस्राक्षं [१] गणाधीशं स्वगुरुं च सरस्वतीम्|</p><p>जनकं जनयित्रीं च शास्त्रादौ प्रणमाम्यहम्||</p><p>समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे अङ्कोलानामकं वैद्यस्थानमस्ति| यत्र सौरवंशजा ब्राह्मणाः समस्तभूमिपतिमान्या अश्विनीकुमारसमानाः पार्वणचन्द्ररुचियशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः समजनi, तत्तनयश्च समस्तशास्त्रार्थतत्त्वज्ञो भरतपालः सञ्जातः, तत्पुत्रः स्वकुलनभस्तलचन्द्रमा [२] विवेकबृहस्पतिः श्रीसहपालदेवनृपतिवल्लभः श्रीडल्हणः समभूत्| तेन श्रीजेज्जटं टीकाकारं श्रीगयदासभास्करौ च पञ्जिकाकारौ श्रीमाधवब्रह्मदेवादीन् टीप्पनकारांश्चोपजीव्य, आयुर्वेदशास्त्रसुश्रुतव्याख्यानाय निबन्धसङ्ग्रहः क्रियते| यद्यपि सुश्रुतोपरि जेज्जटादिभिष्टीका रचिताः, तथाऽपि तासां कुशाग्रीयधियामभिगम्यत्वादल्पमेधसामनुग्रहाय सुश्रुतं व्याख्यातुकामस्य मम प्रयासः सफलः|</p></div>",
+            "en": "<div data-sanskrit-text=\"true\"><p><span data-ref-id=\"CS_Sutra_27.297\" data-citation=\"true\"></span></p><p>सहस्राक्षं [१] गणाधीशं स्वगुरुं च सरस्वतीम्|</p><p>जनकं जनयित्रीं च शास्त्रादौ प्रणमाम्यहम्||</p><p>समस्तजनपदतिलककल्पे श्रीभादानकदेशे नगरीवरमथुरासमीपे अङ्कोलानामकं वैद्यस्थानमस्ति| यत्र सौरवंशजा ब्राह्मणाः समस्तभूमिपतिमान्या अश्विनीकुमारसमानाः पार्वणचन्द्ररुचियशःप्रसाधितदिङ्मण्डला वैद्या अभूवन्| तदन्वये गोविन्दनामा चिकित्सकशिरोमणिरभूत्, ततस्तत्पुत्रो भिषक्शिरोमुकुटमणिर्जयपालः समजनि, तत्तनयश्च समस्तशास्त्रार्थतत्त्वज्ञो भरतपालः सञ्जातः, तत्पुत्रः स्वकुलनभस्तलचन्द्रमा [२] विवेकबृहस्पतिः श्रीसहपालदेवनृपतिवल्लभः श्रीडल्हणः समभूत्| तेन श्रीजेज्जटं टीकाकारं श्रीगयदासभास्करौ च पञ्जिकाकारौ श्रीमाधवब्रह्मदेवादीन् टीप्पनकारांश्चोपजीव्य, आयुर्वेदशास्त्रसुश्रुतव्याख्यानाय निबन्धसङ्ग्रहः क्रियते| यद्यपि सुश्रुतोपरि जेज्जटादिभिष्टीका रचिताः, तथाऽपि तासां कुशाग्रीयधियामभिगम्यत्वादल्पमेधसामनुग्रहाय सुश्रुतं व्याख्यातुकामस्य मम प्रयासः सफलः|</p></div>"
+          }
+        }
+      ],
+      "tags": [],
+      "status": "published",
+      "feedback": {
+        "likes": 0,
+        "dislikes": 1,
+        "scores": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 6,
+            "count": 0
+          },
+          {
+            "value": 7,
+            "count": 0
+          },
+          {
+            "value": 8,
+            "count": 0
+          },
+          {
+            "value": 9,
+            "count": 0
+          },
+          {
+            "value": 10,
+            "count": 0
+          }
+        ],
+        "insightful": 0,
+        "uplifting": 0
+      },
+      "comments": [],
+      "author": {
+        "id": "vakyateam",
+        "name": "VakyaVerse Team",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+      },
+      "createdAt": 1750240320628,
+      "updatedAt": 1750240320628
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987596,
+    "updatedAt": 1752138987596
+  },
+  {
+    "id": "02816a7e-5ceb-446c-b3f8-88ecff4e41c4",
+    "originalContentId": "bhagavdgeeta-chapter-1751472354658-3",
+    "contentType": "book-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/articles/bhagavdgeeta/chapter-1751472354658/3",
+    "content": {
+      "verse": "3",
+      "title": "Article 3",
+      "content": [
+        {
+          "id": "b504c97a-3177-4a77-b352-5352dc13cd3d",
+          "type": "shloka",
+          "sanskrit": "<p>अथातो वेदोत्पत्तिमध्यायं <sup datatype=\"footnote\" datacontent=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\" data-type=\"footnote\" data-content=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\"></sup>व्याख्यास्यामः ||१||</p><p>यथोवाच भगवान् धन्वन्तरिः ||२||</p>",
+          "originalLang": "sa",
+          "translations": {
+            "en": "<div data-sanskrit-text=\"true\"><p>अथातो वेदोत्पत्तिमध्यायं <sup datatype=\"footnote\" datacontent=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\" data-type=\"footnote\" data-content=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\"></sup>व्याख्यास्यामः ||१||</p><p>यथोवाच भगवान् धन्वन्तरिः ||२||</p></div>",
+            "hi": "<div data-sanskrit-text=\"true\"><p>अथातो वेदोत्पत्तिमध्यायं <sup datatype=\"footnote\" datacontent=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\" data-type=\"footnote\" data-content=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\"></sup>व्याख्यास्यामः ||१||</p><p>यथोवाच भगवान् धन्वन्तरिः ||२||</p></div>",
+            "kn": "<p><span data-sanskrit-text=\"true\">अथातो वेदोत्पत्तिमध्यायं <sup datatype=\"footnote\" datacontent=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\" data-type=\"footnote\" data-content=\"‘वेदोत्पत्तिनामाध्यायं’ इति, ‘वेदोत्पत्तिं नामाध्यायं’ इति च पा.|\"></sup>व्याख्यास्यामः ||१||</span></p><p><span data-sanskrit-text=\"true\">यथोवाच भगवान् धन्वन्तरिः ||२||</span></p>"
+          }
+        },
+        {
+          "id": "0bd6fb8c-8e7a-4c88-a0d9-9e4f4c89fcfd",
+          "type": "vyakhya",
+          "sanskrit": "<p><span data-toc-mark=\"true\">अथातो वेदोत्पत्तिमध्यायं व्याख्यास्याम</span> इति| ननु, कतमत् सूत्रमिदं? चतुर्विधानि हि सूत्राणि भवन्ति; तद्यथा- प्रतिसंस्कर्तृसूत्रम्, एकीयसूत्रं, शिष्यसूत्रं, गुरुसूत्रं चेति| इह प्रतिसंस्कर्तृसूत्रं नास्त्येवेत्येके, अन्ये त्वस्तीति भाषन्ते, यथा च तदस्ति तथेहैव नैकट्येन कथयिष्यामः; एकीयसूत्रं यथा- ‘तत्र लोहितकपिलपाण्डुपीतनीलशुक्लेष्ववनिप्रदेशेषु मधुराम्ललवणकटुतिक्तकषायाणि यथासङ्ख्यमुदकानि भवन्तीत्येके भाषन्ते’(सू. अ. ४५)- इति; शिष्यसूत्रं यथा- ‘वायोः प्रकृतिभूतस्य व्यापन्नस्य च लक्षणम्| स्थानं कर्म च रोगांश्च वदस्व वदतांवर’ (नि. अ. १)- इति; गुरुसूत्रं यथा- ‘देहे विचरतस्तस्य लक्षणानि निबोध मे’ (नि. अ. १)- इति; एवं सूत्राणामनेकत्वात् कस्येदं सूत्रम्? उच्यते- गुरोरेवैतत् सूत्रं, शिष्येण ग्रन्थं चिकीर्षता लिखितम्| अन्ये तु शिष्यस्यैवेदं सूत्रमित्याहुः, स त्वात्मशिष्येषु धन्वन्तरिप्रशिष्येषु प्रतिज्ञां कृतवान्; तन्नेच्छति गयी| किमेतत् स्वकपोलकल्पितं सुश्रुतेनोक्तम्, अथवा यथैव गुरुणोदीरितमिति पृष्टः प्रतिसंस्कर्ता सुश्रुतमुखेनेदमाह- यथोवाच भगवान् धन्वन्तरिरिति| इदं प्रतिसंस्कर्तृसूत्रं, यत्र यत्र परोक्षे लिट्प्रयोगस्तत्र तत्रैव प्रतिसंस्कर्तृसूत्रं ज्ञातव्यमिति; प्रतिसंस्कर्ताऽपीह नागार्जुन एव| अथशब्दोऽनन्तरार्थ एव| अतो युष्मच्छल्यतन्त्रोपदेशकामितादनन्तरम्| <span data-toc-mark=\"true\">वेदोत्पत्तिमिति</span> अस्यादौ आयुःशब्दो लुप्तो ज्ञेयः; तेन, आयुर्वेदोत्पत्तिमिति| उत्पत्तिरत्राभिव्यक्तिः, न त्वभूतप्रादुर्भावः| अधीयन्तेऽस्मिन्नर्था इत्यध्यायः| व्याख्यास्याम इति विर्विशेषे, आङ् अभिव्याप्तौ, <span data-toc-mark=\"true\">व्याख्यास्यामः </span>प्रकथयिष्यामः| अन्ये तु, अथशब्दः शिष्यप्रश्नानन्तर्ये , अतःशब्दो हेत्वर्थः, यत एते शिष्याः प्रजाहितार्थमायुर्वेदं गुरुं पप्रच्छुः, अतो हेतोरित्यर्थः; अपरे तु विर्विविधप्रकारे, आङ् आभिमुख्ये, शेषं समम्| एतेनातः शल्यतन्त्रोपदेशकामितादनन्तरम्, आयुर्वेदाभिव्यक्तिमधिकृत्य कृतो योऽध्यायस्तं विशेषाभिव्याप्त्या प्रकथयिष्यामः| द्वितीयव्याख्यानपक्षेऽपीत्थं योजनीयम्| यथोवाचेति यादृगुक्तवान्| भगवान् धन्वन्तरिरिति समस्तैश्वर्यमाहात्म्ययशःश्रीकामार्थप्रयत्नैर्युक्तो ‘भगवान्’ इत्युच्यते; अन्ये तु ज्ञानातिशयवान् पुरुषातिशयो भगवान्; अपरे तु, अष्टगुणैश्वर्यवानेवात्र भगवान्| अथात इत्यादिकं प्रतिज्ञासूत्रं यद्यप्यध्यायादौ लिखितं, तथऽपि ‘वत्स सुश्रुत’ (सू. अ. १, सू. अ. १४) इत्यनन्तरं द्रष्टव्यम्; अन्ये तु ‘अध्याप्याश्च भवन्तो वत्साः’ (सू. अ. १, सू. अ. ५) इत्यनन्तरं पठन्ति, तन्नेच्छति गयी| अत्र केचिद् ‘वेदोत्पत्तिं नामाध्यायं’ इति पठन्ति||१-२||</p><p></p>",
+          "originalLang": "sa",
+          "translations": {
+            "en": "<p><span data-toc-mark=\"true\">अथातो वेदोत्पत्तिमध्यायं व्याख्यास्याम</span> इति| Well, which is this sutra? There are four types of sutras; namely - Pratisaṃskartṛsūtram, Ekīyasūtram, Śiṣyasūtram, and Gurusūtram. Some say that there is no Pratisaṃskartṛsūtram here, while others say that it exists, and we will tell how it exists very closely; Ekīyasūtram as - 'In those red, brown, pale, yellow, blue and white regions of the earth, sweet, sour, salty, pungent, bitter and astringent waters are found respectively' (Su. A. 45) - thus; Śiṣyasūtram as - 'The nature of Vayu, its manifestation and symptoms when afflicted. Tell me about its place, function, and diseases, O best of speakers' (Ni. A. 1) - thus; Gurusūtram as - 'Understand from me the signs of it moving in the body' (Ni. A. 1) - thus; since there are many sutras like this, whose sutra is this? It is said - this sutra belongs to the guru, written by the disciple desiring to compose a text. Others say that this sutra belongs to the disciple, he made a promise to his own disciples and the disciples of Dhanvantari; that is not desired here. Is this said by Sushruta out of his own imagination, or as it was uttered by the guru? Asked thus, the Pratisaṃskarta says through Sushruta's mouth - as said by Bhagavan Dhanvantari. This is Pratisaṃskartṛsūtram, wherever there is a perfect tense usage, there the Pratisaṃskartṛsūtram should be known; here also the Pratisaṃskarta is Nagarjuna. The word Atha is only for the immediate sense. Therefore, after the desire to teach Yushmacchhalyatantra. <span data-toc-mark=\"true\">वेदोत्पत्तिमिति</span> In the beginning of this, the word Ayuh should be understood as omitted; therefore, Ayurvedotpattimiti. Utpatti here means manifestation, not non-existent origin. The chapter in which meanings are studied is Adhyayah. व्याख्यास्याम इति विर्विशेषे, आङ् अभिव्याप्तौ, <span data-toc-mark=\"true\">व्याख्यास्यामः</span> we will proclaim. Others say that the word Atha means immediately after the disciple's question, the word Atah means for the reason, because these disciples asked the guru about Ayurveda for the benefit of the people, therefore for that reason; others say that विर्विविधप्रकारे, आङ् आभिमुख्ये, the rest is the same. By this, after the desire to teach Shalyatantra, we will proclaim with special coverage the chapter that is done concerning the manifestation of Ayurveda. In the second explanation, it should be arranged in this way as well. यथोवाचेति what was said. भगवान् धन्वन्तरिरिति one who is endowed with all the majesty, greatness, fame, prosperity, desire and effort is called 'Bhagavan'; others say that ज्ञानातिशयवान् पुरुषातिशयो भगवान्; others say that, अष्टगुणैश्वर्यवानेवात्र भगवान्| Although the Pratigyasutra beginning with Athat is written at the beginning of the chapter, it should be seen after 'Vatsa Sushruta' (Su. A. 1, Su. A. 14); others read it after 'Adhyapyashcha Bhavanto Vatsah' (Su. A. 1, Su. A. 5), that is not desired here. Here some read 'Vedotpattim Namadhyaym' ||1-2||</p><p></p>",
+            "hi": "<p><span data-toc-mark=\"true\">अथातो वेदोत्पत्तिमध्यायं व्याख्यास्याम</span> इति| ननु, कतमत् सूत्रमिदं? चतुर्विधानि हि सूत्राणि भवन्ति; तद्यथा- प्रतिसंस्कर्तृसूत्रम्, एकीयसूत्रं, शिष्यसूत्रं, गुरुसूत्रं चेति| इह प्रतिसंस्कर्तृसूत्रं नास्त्येवेत्येके, अन्ये त्वस्तीति भाषन्ते, यथा च तदस्ति तथेहैव नैकट्येन कथयिष्यामः; एकीयसूत्रं यथा- ‘तत्र लोहितकपिलपाण्डुपीतनीलशुक्लेष्ववनिप्रदेशेषु मधुराम्ललवणकटुतिक्तकषायाणि यथासङ्ख्यमुदकानि भवन्तीत्येके भाषन्ते’(सू. अ. ४५)- इति; शिष्यसूत्रं यथा- ‘वायोः प्रकृतिभूतस्य व्यापन्नस्य च लक्षणम्| स्थानं कर्म च रोगांश्च वदस्व वदतांवर’ (नि. अ. १)- इति; गुरुसूत्रं यथा- ‘देहे विचरतस्तस्य लक्षणानि निबोध मे’ (नि. अ. १)- इति; एवं सूत्राणामनेकत्वात् कस्येदं सूत्रम्? उच्यते- गुरोरेवैतत् सूत्रं, शिष्येण ग्रन्थं चिकीर्षता लिखितम्| अन्ये तु शिष्यस्यैवेदं सूत्रमित्याहुः, स त्वात्मशिष्येषु धन्वन्तरिप्रशिष्येषु प्रतिज्ञां कृतवान्; तन्नेच्छति गयी| किमेतत् स्वकपोलकल्पितं सुश्रुतेनोक्तम्, अथवा यथैव गुरुणोदीरितमिति पृष्टः प्रतिसंस्कर्ता सुश्रुतमुखेनेदमाह- यथोवाच भगवान् धन्वन्तरिरिति| इदं प्रतिसंस्कर्तृसूत्रं, यत्र यत्र परोक्षे लिट्प्रयोगस्तत्र तत्रैव प्रतिसंस्कर्तृसूत्रं ज्ञातव्यमिति; प्रतिसंस्कर्ताऽपीह नागार्जुन एव| अथशब्दोऽनन्तरार्थ एव| अतो युष्मच्छल्यतन्त्रोपदेशकामितादनन्तरम्| <span data-toc-mark=\"true\">वेदोत्पत्तिमिति</span> अस्यादौ आयुःशब्दो लुप्तो ज्ञेयः; तेन, आयुर्वेदोत्पत्तिमिति| उत्पत्तिरत्राभिव्यक्तिः, न त्वभूतप्रादुर्भावः| अधीयन्तेऽस्मिन्नर्था इत्यध्यायः| व्याख्यास्याम इति विर्विशेषे, आङ् अभिव्याप्तौ, <span data-toc-mark=\"true\">व्याख्यास्यामः </span>प्रकथयिष्यामः| अन्ये तु, अथशब्दः शिष्यप्रश्नानन्तर्ये , अतःशब्दो हेत्वर्थः, यत एते शिष्याः प्रजाहितार्थमायुर्वेदं गुरुं पप्रच्छुः, अतो हेतोरित्यर्थः; अपरे तु विर्विविधप्रकारे, आङ् आभिमुख्ये, शेषं समम्| एतेनातः शल्यतन्त्रोपदेशकामितादनन्तरम्, आयुर्वेदाभिव्यक्तिमधिकृत्य कृतो योऽध्यायस्तं विशेषाभिव्याप्त्या प्रकथयिष्यामः| द्वितीयव्याख्यानपक्षेऽपीत्थं योजनीयम्| यथोवाचेति यादृगुक्तवान्| भगवान् धन्वन्तरिरिति समस्तैश्वर्यमाहात्म्ययशःश्रीकामार्थप्रयत्नैर्युक्तो ‘भगवान्’ इत्युच्यते; अन्ये तु ज्ञानातिशयवान् पुरुषातिशयो भगवान्; अपरे तु, अष्टगुणैश्वर्यवानेवात्र भगवान्| अथात इत्यादिकं प्रतिज्ञासूत्रं यद्यप्यध्यायादौ लिखितं, तथऽपि ‘वत्स सुश्रुत’ (सू. अ. १, सू. अ. १४) इत्यनन्तरं द्रष्टव्यम्; अन्ये तु ‘अध्याप्याश्च भवन्तो वत्साः’ (सू. अ. १, सू. अ. ५) इत्यनन्तरं पठन्ति, तन्नेच्छति गयी| अत्र केचिद् ‘वेदोत्पत्तिं नामाध्यायं’ इति पठन्ति||१-२||</p><p></p>",
+            "kn": "<p><span data-sanskrit-text=\"true\">अथातो वेदोत्पत्तिमध्यायं व्याख्यास्याम</span> इति| ನನು, ಕತಮತ್ ಸೂತ್ರಮಿದಂ? ಚತುರ್ವಿಧಾನಿ ಹಿ ಸೂತ್ರಾಣಿ ಭವಂತಿ; ತದ್ಯಥಾ- ಪ್ರತಿಸಂಸ್ಕರ್ತೃಸೂತ್ರಂ, ಏಕೀಯಸೂತ್ರಂ, ಶಿಷ್ಯಸೂತ್ರಂ, ಗುರುಸೂತ್ರಂ ಚೇತಿ| ಇಹ ಪ್ರತಿಸಂಸ್ಕರ್ತೃಸೂತ್ರಂ ನಾಸ್ತ್ಯೇವೇತ್ಯೇಕೇ, ಅನ್ಯೇ ತ್ವಸ್ತೀತಿ ಭಾಷಂತೇ, ಯಥಾ ಚ ತದಸ್ತಿ ತಥೈವ ನೈಕಟ್ಯೇನ ಕಥಯಿಷ್ಯಾಮಃ; ಏಕೀಯಸೂತ್ರಂ ಯಥಾ- ‘ತತ್ರ ಲೋಹಿತಕಪಿಲಪಾಂಡುಪೀತನೀಲಶುಕ್ಲೇಶ್ವವನಿಪ್ರದೇಶೇಷು ಮಧುರಾಮ್ಲಲವಣಕಟುತಿಕ್ತಕಷಾಯಾಣಿ ಯಥಾಸಙ್ಖ್ಯಮುದಕಾನಿ ಭವಂತೀತ್ಯೇಕೇ ಭಾಷಂತೇ’(ಸೂ. ಅ. ೪೫)- ಇತಿ; ಶಿಷ್ಯಸೂತ್ರಂ ಯಥಾ- ‘ವಾಯೋಃ ಪ್ರಕೃತಿಭೂತಸ್ಯ ವ್ಯಾಪನ್ನಸ್ಯ ಚ ಲಕ್ಷಣಮ್| ಸ್ಥಾನಂ ಕರ್ಮ ಚ ರೋಗಾಂಶ್ಚ ವದಸ್ವ ವದತಾಂವರ’ (ನಿ. ಅ. ೧)- ಇತಿ; ಗುರುಸೂತ್ರಂ ಯಥಾ- ‘ದೇಹೇ ವಿಚರತಸ್ತಸ್ಯ ಲಕ್ಷಣಾನಿ ನಿಬೋಧ ಮೇ’ (ನಿ. ಅ. ೧)- ಇತಿ; ಏವಂ ಸೂತ್ರಾಣಾಮನೇಕತ್ವಾತ್ ಕಸ್ಯೇದಂ ಸೂತ್ರಮ್? ಉಚ್ಯತೇ- ಗುರೋರೈವೈತತ್ ಸೂತ್ರಂ, ಶಿಷ್ಯೇಣ ಗ್ರಂಥಂ ಚಿಕೀರ್ಷತಾ ಲಿಖಿತಮ್| ಅನ್ಯೇ ತು ಶಿಷ್ಯಸ್ಯೈವೇದಂ ಸೂತ್ರಮಿತ್ಯಾಹುಃ, ಸ ತ್ವಾತ್ಮಶಿಷ್ಯೇಷು ಧನ್ವಂತರಿಪ್ರಶಿಷ್ಯೇಷು ಪ್ರತಿಜ್ಞಾಂ ಕೃತವಾನ್; ತನ್ನೇಚ್ಛತಿ ಗಯೀ| ಕಿಮೇತತ್ ಸ್ವಕಪೋಲಕಲ್ಪಿತಂ ಸುಶ್ರುತೇನೋಕ್ತಂ, ಅಥವಾ ಯಥೈವ ಗುರುಣೋದೀರಿತಮಿತಿ ಪೃಷ್ಟಃ ಪ್ರತಿಸಂಸ್ಕರ್ತಾ ಸುಶ್ರುತಮುಖೇನೇದಮಾಹ- ಯಥೋವಾಚ ಭಗವಾನ್ ಧನ್ವಂತರಿರಿತಿ| ಇದಂ ಪ್ರತಿಸಂಸ್ಕರ್ತೃಸೂತ್ರಂ, ಯತ್ರ ಯತ್ರ ಪರೋಕ್ಷೇ ಲಿಟ್ಪ್ರಯೋಗಸ್ತತ್ರ ತತ್ರೈವ ಪ್ರತಿಸಂಸ್ಕರ್ತೃಸೂತ್ರಂ ಜ್ಞಾತವ್ಯಮಿತಿ; ಪ್ರತಿಸಂಸ್ಕರ್ತಾಽಪೀಹ ನಾಗಾರ್ಜುನ ಏವ| ಅಥಶಬ್ದೋಽನಂತರಾರ್ಥ ಏವ| ಅತೋ ಯುಷ್ಮಚ್ಛಲ್ಯತಂತ್ರೋಪದೇಶಕಾಮಿತಾದನಂತರಮ್| <span data-sanskrit-text=\"true\">ವೇದೋತ್ಪತ್ತಿಮಿತಿ</span> ಅಸ್ಯಾದೌ ಆಯುಃಶಬ್ದೋ ಲುಪ್ತೋ ಜ್ಞೇಯಃ; ತೇನ, ಆಯುರ್ವೇದೋತ್ಪತ್ತಿಮಿತಿ| ಉತ್ಪತ್ತಿರತ್ರಾಭಿವ್ಯಕ್ತಿಃ, ನ ತ್ವಭೂತಪ್ರಾದುರ್ಭಾವಃ| ಅಧೀಯಂತೇಽಸ್ಮಿನ್ನರ್ಥಾ ಇತ್ಯಧ್ಯಾಯಃ| ವ್ಯಾಖ್ಯಾಸ್ಯಮ ಇತಿ ವಿರ್ವಿಶೇಷೇ, ಆಙ್ ಅಭಿವ್ಯಾಪ್ತೌ, <span data-sanskrit-text=\"true\">ವ್ಯಾಖ್ಯಾಸ್ಯಮಃ </span>ಪ್ರಕಥಯಿಷ್ಯಾಮಃ| ಅನ್ಯೇ ತು, ಅಥಶಬ್ದಃ ಶಿಷ್ಯಪ್ರಶ್ನಾನಂತರ್ಯೇ , अतःशब्दो हेत्वर्थः, ಯತ ಏತೇ ಶಿಷ್ಯಾಃ ಪ್ರಜಾಹಿತಾರ್ಥಮಾಯುರ್ವೇದಂ ಗುರುಂ ಪಪ್ರಚ್ಛುಃ, ಅತೋ ಹೇತೋರಿತ್ಯರ್ಥಃ; ಅಪರೇ ತು ವಿರ್ವಿವಿಧಪ್ರಕಾರೇ, ಆಙ್ ಆಭಿಮುಖ್ಯೇ, ಶೇಷಂ ಸಮಮ್| ಏತೇನಾತಃ ಶಲ್ಯತಂತ್ರೋಪದೇಶಕಾಮಿತಾದನಂತರಮ್, ಆಯುರ್ವೇದಾಭಿವ್ಯಕ್ತಿಮಧಿಕೃತ್ಯ ಕೃತೋ ಯೋಽಧ್ಯಾಯಸ್ತಂ ವಿಶೇಷಾಭಿವ್ಯಾಪ್ತ್ಯಾ ಪ್ರಕಥಯಿಷ್ಯಾಮಃ| ದ್ವಿತೀಯವ್ಯಾಖ್ಯಾನಪಕ್ಷೇಽಪೀತ್ಥಂ ಯೋಜನೀಯಮ್| ಯಥೋವಾಚೇತಿ ಯಾದೃಗುಕ್ತವಾನ್| ಭಗವಾನ್ ಧನ್ವಂತರಿರಿತಿ ಸಮಸ್ತೈಶ್ವರ್ಯಮಾಹಾತ್ಮ್ಯಯಶಃಶ್ರೀಕಾಮಾರ್ಥಪ್ರಯತ್ನೈರ್ಯುಕ್ತೋ ‘ಭಗವಾನ್’ ಇತ್ಯುಚ್ಯತೇ; ಅನ್ಯೇ ತು ಜ್ಞಾನಾತಿಶಯವಾನ್ ಪುರುಷಾತಿಶಯೋ ಭಗವಾನ್; ಅಪರೇ ತು, ಅಷ್ಟಗುಣೈಶ್ವರ್ಯವಾನೇವಾತ್ರ ಭಗವಾನ್| ಅಥಾತ ಇತ್ಯಾದಿಕಂ ಪ್ರತಿಜ್ಞಾಸೂತ್ರಂ ಯದ್ಯಪ್ಯಧ್ಯಾಯಾದೌ ಲಿಖಿತಂ, ತಥಽಪಿ ‘ವತ್ಸ ಸುಶ್ರುತ’ (ಸೂ. ಅ. ೧, ಸೂ. ಅ. ೧೪) ಇತ್ಯನಂತರಂ ದ್ರಷ್ಟವ್ಯಮ್; ಅನ್ಯೇ ತು ‘ಅಧ್ಯಾಪ್ಯಾಶ್ಚ ಭವಂತೋ ವತ್ಸಾಃ’ (ಸೂ. ಅ. ೧, ಸೂ. ಅ. ೫) ಇತ್ಯನಂತರಂ ಪಠಂತಿ, ತನ್ನೇಚ್ಛತಿ ಗಯೀ| ಅತ್ರ ಕೇಚಿದ್ ‘ವೇದೋತ್ಪತ್ತಿಂ ನಾಮಾಧ್ಯಾಯಂ’ ಇತಿ ಪಠಂತಿ||೧-೨||</p><p></p>"
+          },
+          "commentary": {
+            "type": "vyakhya",
+            "author": "डल्हण",
+            "workName": "निबन्धसङ्ग्रह व्याख्या",
+            "shortName": "निबन्ध-सं :"
+          }
+        },
+        {
+          "id": "87542a7a-5d08-4f5b-b942-76f54c1351e0",
+          "type": "bhashya",
+          "sanskrit": "<p><sup datatype=\"specialnote\" datacontent=\"testing special note\" data-type=\"specialnote\" data-content=\"testing special note\"></sup>अथ खल्वित्यादि| अथेति मङ्गलार्थः, तत्तु श्रोतृव्याख्यात्रोः क्रियाफलसिद्धिं कथयति| खलु वाक्यशोभार्थः, अन्ये तु निश्चयार्थः| अमरवरं देवश्रेष्ठं, पूर्वजन्मन्यमृतोद्धरणात्; अन्ये तु ब्रह्मणोऽवतारत्वात्| ऋषिगणपरिवृतं देवर्षिब्रह्मर्षिराजर्षिसमूहैर्वेष्टितं, तपोज्ञानबाहुल्यादुपादेयवाक्यत्वाच्च| आश्रमस्थं वानप्रस्थाश्रमस्थम्, एतेन राज्यचिन्तापरित्यागादनाकुलचित्तत्वं राजर्षित्वं च सूचितम्| काशिराजं वाराणसीजनपदनृपतिं, काशिराजस्य निर्वाणपदाभिलाषित्वात्तत्पुत्रत्वमापन्नमिति काशिराजम्|</p>",
+          "originalLang": "sa",
+          "translations": {
+            "en": "<p><sup datatype=\"specialnote\" datacontent=\"testing special note\" data-type=\"specialnote\" data-content=\"testing special note\"></sup>अब आगे| 'अथ' शब्द मंगल के लिए है, जो श्रोता और व्याख्याता दोनों के लिए क्रिया (कार्य) की सिद्धि बताता है। 'खलु' शब्द वाक्य की शोभा के लिए है, अन्य लोग इसे निश्चय के अर्थ में लेते हैं। अमरवरं यानी देवों में श्रेष्ठ, पूर्व जन्म में अमृत के उद्धरण के कारण; अन्य लोग इसे ब्रह्मा का अवतार मानते हैं। ऋषिगणपरिवृतं यानी देवर्षि, ब्रह्मर्षि और राजर्षि समूहों से घिरा हुआ, तप और ज्ञान की अधिकता के कारण और उपादेय वाक्य होने के कारण। आश्रमस्थं यानी वानप्रस्थ आश्रम में स्थित, इससे राज्य की चिंता के त्याग से अनाकुल चित्तत्व और राजर्षित्व सूचित होता है। काशिराजं यानी वाराणसी जनपद का राजा, काशिराज के निर्वाण पद की अभिलाषा होने से उसके पुत्र रूप में उत्पन्न होने के कारण काशिराज।</p><p><span data-sanskrit-text=\"true\">अथ खल्वित्यादि| अथेति मङ्गलार्थः, तत्तु श्रोतृव्याख्यात्रोः क्रियाफलसिद्धिं कथयति| खलु वाक्यशोभार्थः, अन्ये तु निश्चयार्थः| अमरवरं देवश्रेष्ठं, पूर्वजन्मन्यमृतोद्धरणात्; अन्ये तु ब्रह्मणोऽवतारत्वात्| ऋषिगणपरिवृतं देवर्षिब्रह्मर्षिराजर्षिसमूहैर्वेष्टितं, तपोज्ञानबाहुल्यादुपादेयवाक्यत्वाच्च| आश्रमस्थं वानप्रस्थाश्रमस्थम्, एतेन राज्यचिन्तापरित्यागादनाकुलचित्तत्वं राजर्षित्वं च सूचितम्| काशिराजं वाराणसीजनपदनृपतिं, काशिराजस्य निर्वाणपदाभिलाषित्वात्तत्पुत्रत्वमापन्नमिति काशिराजम्|</span></p>",
+            "hi": "<p><sup datatype=\"specialnote\" datacontent=\"testing special note\" data-type=\"specialnote\" data-content=\"testing special note\"></sup><span data-sanskrit-text=\"true\">अथ खल्वित्यादि| अथेति मङ्गलार्थः, तत्तु श्रोतृव्याख्यात्रोः क्रियाफलसिद्धिं कथयति| खलु वाक्यशोभार्थः, अन्ये तु निश्चयार्थः| अमरवरं देवश्रेष्ठं, पूर्वजन्मन्यमृतोद्धरणात्; अन्ये तु ब्रह्मणोऽवतारत्वात्| ऋषिगणपरिवृतं देवर्षिब्रह्मर्षिराजर्षिसमूहैर्वेष्टितं, तपोज्ञानबाहुल्यादुपादेयवाक्यत्वाच्च| आश्रमस्थं वानप्रस्थाश्रमस्थम्, एतेन राज्यचिन्तापरित्यागादनाकुलचित्तत्वं राजर्षित्वं च सूचितम्| काशिराजं वाराणसीजनपदनृपतिं, काशिराजस्य निर्वाणपदाभिलाषित्वात्तत्पुत्रत्वमापन्नमिति काशिराजम्|</span></p>",
+            "kn": "<p><sup datatype=\"specialnote\" datacontent=\"testing special note\" data-type=\"specialnote\" data-content=\"testing special note\"></sup><span data-sanskrit-text=\"true\">अथ खल्वित्यादि| अथेति मङ्गलार्थः, तत्तु श्रोतृव्याख्यात्रोः क्रियाफलसिद्धिं कथयति| खलु वाक्यशोभार्थः, अन्ये तु निश्चयार्थः| अमरवरं देवश्रेष्ठं, पूर्वजन्मन्यमृतोद्धरणात्; अन्ये तु ब्रह्मणोऽवतारत्वात्| ऋषिगणपरिवृतं देवर्षिब्रह्मर्षिराजर्षिसमूहैर्वेष्टितं, तपोज्ञानबाहुल्यादुपादेयवाक्यत्वाच्च| आश्रमस्थं वानप्रस्थाश्रमस्थम्, एतेन राज्यचिन्तापरित्यागादनाकुलचित्तत्वं राजर्षित्वं च सूचितम्| काशिराजं वाराणसीजनपदनृपतिं, काशिराजस्य निर्वाणपदाभिलाषित्वात्तत्पुत्रत्वमापन्नमिति काशिराजम्|</span></p>"
+          },
+          "commentary": {
+            "type": "bhashya",
+            "author": "चक्रपाणिदत्त",
+            "workName": "चक्रपाणिदत्त",
+            "shortName": "चक्र"
+          }
+        }
+      ],
+      "tags": [],
+      "status": "published",
+      "feedback": {
+        "likes": 0,
+        "dislikes": 0,
+        "scores": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 6,
+            "count": 0
+          },
+          {
+            "value": 7,
+            "count": 0
+          },
+          {
+            "value": 8,
+            "count": 0
+          },
+          {
+            "value": 9,
+            "count": 0
+          },
+          {
+            "value": 10,
+            "count": 0
+          }
+        ],
+        "views": 2,
+        "insightful": 0,
+        "uplifting": 0
+      },
+      "comments": [
+        {
+          "id": "361877ca-ed03-4d50-910d-44bd27821f5d",
+          "authorId": "anonymous",
+          "timestamp": 1751565634016,
+          "feedback": {
+            "likes": 0,
+            "dislikes": 0
+          },
+          "targetText": "अथातो वेदोत्पत्तिमध्यायं व्याख्यास्याम",
+          "title": "testing",
+          "body": "is it working?",
+          "reasonTags": [
+            "grammar"
+          ],
+          "replies": []
+        }
+      ],
+      "author": {
+        "id": "vakyateam",
+        "name": "VakyaVerse Team",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+      },
+      "createdAt": 1751017920628,
+      "updatedAt": 1751017920628
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987596,
+    "updatedAt": 1752138987596
+  },
+  {
+    "id": "db05e7d0-32e5-4062-a25d-4ac296a5d317",
+    "originalContentId": "bhagavdgeeta-chapter-1751472354658-4",
+    "contentType": "book-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/articles/bhagavdgeeta/chapter-1751472354658/4",
+    "content": {
+      "verse": "4",
+      "title": "Article 4",
+      "content": [
+        {
+          "id": "f138a923-c136-44dc-b15b-efdc6a2f551e",
+          "type": "shloka",
+          "sanskrit": "<h4><strong>The Role of Agni in Ayurveda</strong></h4><p>In Ayurveda, <strong>Agni</strong> is not merely fire in the physical sense—it is the biological fire that governs digestion, absorption, assimilation, and transformation. According to the <em>Charaka Samhita</em>, when <strong>Agni</strong> is balanced, health is sustained. When <strong>Agni</strong> is either diminished (<em>mandāgni</em>), increased (<em>tīkṣṇāgni</em>), or irregular (<em>viṣamāgni</em>), it leads to the formation of <strong>āma</strong>, which becomes the root cause of many disorders. </p><p>[[ag</p><p>There are 13 types of <strong>Agni</strong>, among which <strong>Jatharāgni</strong> is the principal. The subtle agnis, like <strong>Dhātvagni</strong> and <strong>Bhūtāgni</strong>, function at tissue and elemental levels respectively. For instance, <strong>Rasadhātvagni</strong> helps in the transformation of <em>rasa dhātu</em>, while <strong>Bhūtāgni</strong> transforms the five great elements before their assimilation.</p><p>The therapeutic approach in Ayurveda often begins with assessing the state of <strong>Agni</strong>. In classical detoxification procedures like <strong>Pañcakarma</strong>, rekindling <strong>Agni</strong> is a prerequisite.</p><p>Here are a few Sanskrit terms and random inclusions for test variety:</p><ul><li><p><strong>Ojas</strong> – the essence of all dhātus.</p></li><li><p><strong>Prāṇa</strong>, <strong>Tejas</strong>, <strong>Soma</strong> – fundamental energies.</p></li><li><p>Random words: <em>technology</em>, <em>framework</em>, <em>digital herbalism</em>, <em>ancient AI</em>, <em>contextual parser</em>, <em>knowledge tree</em>, <em>cosmic logic</em>, <em>quantum template</em>.</p></li></ul><p>The restoration of <strong>Agni</strong> is central to the success of any Ayurvedic treatment. Hence, understanding its nuances is vital for both physicians and scholars.</p>",
+          "originalLang": "sa",
+          "translations": {}
+        }
+      ],
+      "tags": [],
+      "status": "draft",
+      "feedback": {
+        "likes": 0,
+        "dislikes": 0,
+        "scores": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 6,
+            "count": 0
+          },
+          {
+            "value": 7,
+            "count": 0
+          },
+          {
+            "value": 8,
+            "count": 0
+          },
+          {
+            "value": 9,
+            "count": 0
+          },
+          {
+            "value": 10,
+            "count": 0
+          }
+        ],
+        "insightful": 0,
+        "uplifting": 0
+      },
+      "comments": [],
+      "author": {
+        "id": "vakyateam",
+        "name": "VakyaVerse Team",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+      },
+      "createdAt": 1750672320628,
+      "updatedAt": 1750672320628
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987596,
+    "updatedAt": 1752138987596
+  },
+  {
+    "id": "0a422645-5e2e-4723-9ffd-c0e827592407",
+    "originalContentId": "bhagavdgeeta-2",
+    "contentType": "book",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/books/bhagavdgeeta-2",
+    "content": {
+      "id": "bhagavdgeeta-2",
+      "name": "Bhagavdgeeta 2",
+      "categoryId": "itihasa",
+      "visibility": "private",
+      "isAnnounced": false,
+      "coverUrl": "https://placehold.co/800x400.png",
+      "profileUrl": "https://placehold.co/400x600.png",
+      "volumeInfo": {
+        "seriesName": "bhagavdgeeta",
+        "volumeNumber": 2
+      },
+      "ownerId": "researcher@vakyaverse.com"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987596,
+    "updatedAt": 1752138987596
+  },
+  {
+    "id": "848887ef-03bd-4d2a-ab3b-60310c946aa8",
+    "originalContentId": "bhagavdgeeta",
+    "contentType": "book",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/books/bhagavdgeeta",
+    "content": {
+      "id": "bhagavdgeeta",
+      "name": "Bhagavdgeeta",
+      "categoryId": "itihasa",
+      "visibility": "private",
+      "isAnnounced": true,
+      "coverUrl": "/media/bhagavad-gita-kurukshetra-war-6mqhvc2vk2ab24l3.jpg",
+      "profileUrl": "/media/geeta cover.jpg",
+      "volumeInfo": {
+        "seriesName": "bhagavdgeeta",
+        "volumeNumber": 1
+      },
+      "ownerId": "researcher@vakyaverse.com"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752138987539,
+    "updatedAt": 1752138987539
+  },
+  {
+    "id": "d11a784c-264d-4e1d-b8b4-40db103ad4c4",
+    "originalContentId": "c268d2ff-5f66-4420-985f-0c66e6caaefe",
+    "contentType": "post",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "c268d2ff-5f66-4420-985f-0c66e6caaefe",
+      "postType": "question",
+      "status": "raw",
+      "author": {
+        "id": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/pexels-life-of-pix-7974.jpg",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "<p>what is the meaning of agni? </p>",
+      "createdAt": 1752140902400,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 0
+      },
+      "sparks": [],
+      "glows": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "ad18c122-bc73-48b9-abcc-de8cdfe19875",
+    "originalContentId": "7475d035-5a9d-43d6-8246-0b5b120cdfa8",
+    "contentType": "post",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "7475d035-5a9d-43d6-8246-0b5b120cdfa8",
+      "postType": "thought",
+      "status": "raw",
+      "author": {
+        "id": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "<p>test</p>",
+      "createdAt": 1751947726482,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 0
+      },
+      "sparks": [],
+      "glows": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "35910296-7264-4c3b-8f59-88ee96e48db5",
+    "originalContentId": "bbadd8d0-f81f-4c15-a5c6-3e10b316d8e3",
+    "contentType": "post",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "bbadd8d0-f81f-4c15-a5c6-3e10b316d8e3",
+      "postType": "thought",
+      "status": "raw",
+      "author": {
+        "id": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "<p>A book test</p>",
+      "attachedWork": {
+        "type": "book",
+        "href": "/admin/books/bhagavdgeeta",
+        "title": "Bhagavdgeeta",
+        "parentTitle": "Itihasa (इतिहास)",
+        "description": "<p><span style=\"font-size: 12px\">The Bhagavad Gita, often referred to as the Gita, is a Hindu scripture, dated to the second or first century BCE, which forms part of the epic poem Mahabharata. The Gita is a synthesis of various strands of Indian religious thought, including the Vedic concept of dharma; samkhya-based yoga and jnana; and bhakti.</span></p>",
+        "coverUrl": "/media/bhagavad-gita-kurukshetra-war-6mqhvc2vk2ab24l3.jpg",
+        "profileUrl": "/media/geeta cover.jpg"
+      },
+      "createdAt": 1751947233890,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 1
+      },
+      "sparks": [],
+      "glows": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "c73f25e1-77c0-4e0d-ba62-1f69d6d2edd0",
+    "originalContentId": "3dbb0ce0-0384-44ac-a837-b3f3ad630f2c",
+    "contentType": "post",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "3dbb0ce0-0384-44ac-a837-b3f3ad630f2c",
+      "postType": "thought",
+      "status": "thread-started",
+      "author": {
+        "id": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "<blockquote data-author=\"Acharya Mahanidhi\"><p>“The whole creation is made up of trio. The three elements of the nature unite as trio create this Triatic creation. ”</p></blockquote>",
+      "createdAt": 1751947039890,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 0
+      },
+      "sparks": [],
+      "glows": [],
+      "answers": [
+        {
+          "id": "cbe62ba9-f1c6-47ab-9205-beb09d261688",
+          "author": {
+            "id": "researcher@vakyaverse.com",
+            "name": "Admin User",
+            "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+          },
+          "content": "<p>tests kjasndjans</p>",
+          "createdAt": 1751948274601,
+          "upvotes": 0,
+          "downvotes": 0
+        },
+        {
+          "id": "0e9ce5fd-14ba-460f-9c12-58c28671726f",
+          "author": {
+            "id": "researcher@vakyaverse.com",
+            "name": "Admin User",
+            "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+          },
+          "content": "<p>tests 2</p>",
+          "createdAt": 1751948266225,
+          "upvotes": 0,
+          "downvotes": 0
+        },
+        {
+          "id": "6dfe3d7b-661f-443d-94ab-ed7c97e17ae4",
+          "author": {
+            "id": "researcher@vakyaverse.com",
+            "name": "Admin User",
+            "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+          },
+          "content": "<p>test</p>",
+          "createdAt": 1751948257639,
+          "upvotes": 0,
+          "downvotes": 0
+        }
+      ]
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "e326fa70-d41b-4579-b6ba-1d44f8a25047",
+    "originalContentId": "6d0bbe90-e7eb-4d8b-b170-29bef702903c",
+    "contentType": "post",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "6d0bbe90-e7eb-4d8b-b170-29bef702903c",
+      "postType": "thought",
+      "status": "raw",
+      "author": {
+        "id": "researcher@vakyaverse.com",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "<p>text</p>",
+      "createdAt": 1751947030273,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 0
+      },
+      "sparks": [],
+      "glows": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "b8bcb29d-5830-4ee9-8599-9802287a4305",
+    "originalContentId": "b740a39e-2317-44d1-b3b3-6cf9a47d1b0f",
+    "contentType": "post",
+    "originalUserId": "user1",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "b740a39e-2317-44d1-b3b3-6cf9a47d1b0f",
+      "postType": "thought",
+      "status": "raw",
+      "author": {
+        "id": "user1",
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1750535135659-7a0c8878a8fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzUxNjAzODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "testing post\r\n",
+      "attachedWork": {
+        "type": "book-article",
+        "href": "/articles/bhagavdgeeta/chapter-1751472354658/1",
+        "title": "Article 1",
+        "parentTitle": "Bhagavdgeeta"
+      },
+      "createdAt": 1751859170349,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 0
+      },
+      "sparks": [],
+      "glows": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "44282841-fa6e-49eb-8545-ee5115ea30d2",
+    "originalContentId": "e987c9b8-3e4b-4a1d-8f2c-5d0b9a8c7d6e",
+    "contentType": "post",
+    "originalUserId": "user1",
+    "sourcePath": "/admin/profile?tab=wall",
+    "content": {
+      "id": "e987c9b8-3e4b-4a1d-8f2c-5d0b9a8c7d6e",
+      "author": {
+        "id": "user1",
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1750535135659-7a0c8878a8fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzUxNjAzODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "role": "Mimamsaka Scholar"
+      },
+      "content": "This is a test post on the wall.",
+      "createdAt": 1751816738593,
+      "views": 0,
+      "reactions": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "cites": 2
+      },
+      "postType": "thought",
+      "status": "raw"
+    },
+    "allowAiSync": true,
+    "createdAt": 1752141417172,
+    "updatedAt": 1752141417172
+  },
+  {
+    "id": "492c1ff9-4c7d-490a-b192-6afb83fc54c4",
+    "originalContentId": "bhagavdgeeta-chapter-1751472354658-5",
+    "contentType": "book-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/articles/bhagavdgeeta/chapter-1751472354658/5",
+    "content": {
+      "verse": "5",
+      "title": "Article 5",
+      "content": [
+        {
+          "id": "8bf00a78-db48-499c-be15-a79ff1e4cdb5",
+          "type": "shloka",
+          "sanskrit": "<p><span data-versions=\"[&quot;अथातो वेदोत्पत्तिमध्यायं व्याख्यास्यामः&quot;,&quot;अथातो वेदोत्पत्तिं नामाध्यायं व्याख्यास्यामः&quot;]\" class=\"version-word\">अथातो वेदोत्पत्तिमध्यायं व्याख्यास्यामः</span><sup datatype=\"footnote\" datacontent=\"foot note test\" data-type=\"footnote\" data-content=\"foot note test\"></sup> <span data-ref-id=\"CS_Sutra_27.297\" data-citation=\"true\"></span></p><p></p><p><span data-id=\"toc-mark-0e6711f3-47b5-4ce8-920a-98bf54f096a1\" data-toc-mark=\"true\">testing further article</span> what is it working or not</p>"
+        }
+      ],
+      "tags": [],
+      "status": "draft",
+      "author": {
+        "id": "user1",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+      },
+      "createdAt": 1752231185316,
+      "updatedAt": 1752231185316,
+      "feedback": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "views": 0,
+        "scores": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 6,
+            "count": 0
+          },
+          {
+            "value": 7,
+            "count": 0
+          },
+          {
+            "value": 8,
+            "count": 0
+          },
+          {
+            "value": 9,
+            "count": 0
+          },
+          {
+            "value": 10,
+            "count": 0
+          }
+        ]
+      },
+      "comments": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1752231185420,
+    "updatedAt": 1752231185420
+  },
+  {
+    "id": "3c746729-9a25-4b94-89e6-138ad282cba1",
+    "originalContentId": "bhagavdgeeta-chapter-1751472354658-6",
+    "contentType": "book-article",
+    "originalUserId": "researcher@vakyaverse.com",
+    "sourcePath": "/articles/bhagavdgeeta/chapter-1751472354658/6",
+    "content": {
+      "verse": "6",
+      "title": "Article 6",
+      "content": [
+        {
+          "id": "7d413542-f057-45d2-8ebf-18c2422c6189",
+          "type": "shloka",
+          "sanskrit": "<p>hi<sup datatype=\"footnote\" datacontent=\"test\" data-type=\"footnote\" data-content=\"test\"></sup> </p><div data-ref-id=\"CS_Sutra_27.297\" data-citation-node=\"true\">Loading CS_Sutra_27.297...</div><blockquote data-author=\"Acharya Mahanidhi\"><p>“The whole creation is made up of trio. The three elements of the nature unite as trio create this Triatic creation. ”</p></blockquote>"
+        }
+      ],
+      "tags": [],
+      "status": "draft",
+      "author": {
+        "id": "user1",
+        "name": "Admin User",
+        "avatarUrl": "/media/_cce41b04-07a0-4c49-bd66-7d2b4a59f1a7.jpg"
+      },
+      "createdAt": 1753173241030,
+      "updatedAt": 1753173241030,
+      "feedback": {
+        "likes": 0,
+        "dislikes": 0,
+        "insightful": 0,
+        "uplifting": 0,
+        "views": 0,
+        "scores": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 6,
+            "count": 0
+          },
+          {
+            "value": 7,
+            "count": 0
+          },
+          {
+            "value": 8,
+            "count": 0
+          },
+          {
+            "value": 9,
+            "count": 0
+          },
+          {
+            "value": 10,
+            "count": 0
+          }
+        ]
+      },
+      "comments": []
+    },
+    "allowAiSync": true,
+    "createdAt": 1753173241123,
+    "updatedAt": 1753173241123
+  }
+]

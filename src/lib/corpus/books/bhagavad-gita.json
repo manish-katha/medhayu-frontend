@@ -1,0 +1,43 @@
+
+{
+  "bookId": "bhagavad-gita",
+  "bookName": "Bhagavad Gita",
+  "author": "Vyasa",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Arjuna Viṣāda Yoga",
+      "topic": "Arjuna's Dilemma",
+      "articles": [
+        {
+          "id": "BG1.1",
+          "verse": "1.1",
+          "title": "The Armies on the Battlefield of Kurukshetra",
+          "content": [
+            {
+              "id": "block-1",
+              "type": "shloka",
+              "sanskrit": "<p>धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||</p>"
+            }
+          ],
+          "tags": ["kurukshetra", "dhritarashtra", "sanjaya"],
+          "status": "published"
+        },
+        {
+          "id": "BG1.2",
+          "verse": "1.2",
+          "title": "Duryodhana's Assessment",
+          "content": [
+            {
+              "id": "block-2",
+              "type": "shloka",
+              "sanskrit": "<p>सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||2||</p>"
+            }
+          ],
+          "tags": ["duryodhana", "armies", "sanjaya"],
+          "status": "published"
+        }
+      ]
+    }
+  ]
+}
