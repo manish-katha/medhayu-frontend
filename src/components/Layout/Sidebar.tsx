@@ -42,7 +42,7 @@ import { ALL_MODULES, menuConfig, ALL_MEDHAYU_MODULES, medhayuMenuConfig } from 
 import { useWindowModules } from '@/hooks/useWindowModules.tsx';
 import type { UserProfile } from '@/types/user.types';
 import { useAppMode } from './MainLayout';
-import { useAuth } from '@/app/contexts/AuthContext';
+import { useAuth } from "@/contexts/AuthContext";
 import { getUserProfile } from '@/services/user.service';
 
 

@@ -28,7 +28,7 @@ import { getDiscoverableUsers } from '@/services/user.service';
 import { Autocomplete } from '@/components/ui/autocomplete';
 import { Loader2, Save, UserSearch } from 'lucide-react';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
-import { useAuth } from '@/app/contexts/AuthContext';
+import { useAuth } from "@/contexts/AuthContext";
 
 
 const clinicFormSchema = z.object({

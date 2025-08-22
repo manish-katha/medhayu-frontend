@@ -9,7 +9,7 @@ import ClinicForm from '@/components/Settings/Clinic/ClinicForm';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { EmptyState } from '@/components/ui/empty-state';
 import { getClinicsForUser } from '@/actions/clinic.actions';
-import { useAuth } from '@/app/contexts/AuthContext';
+import { useAuth } from "@/contexts/AuthContext";
 import type { Clinic } from '@/types';
 
 const MyClinicsPage = () => {
