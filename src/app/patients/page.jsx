@@ -1,4 +1,3 @@
-
 'use client';
 
 import React, { useState, useEffect, useCallback } from 'react';
@@ -10,9 +9,8 @@ import PatientForm from '@/components/Patients/PatientForm';
 import PatientFilters from '@/components/Patients/PatientFilters';
 import { EmptyState } from '@/components/ui/empty-state';
 import { getPatients } from '@/actions/patient.actions';
-import type { PatientData } from '@/types/patient';
 import { Skeleton } from '@/components/ui/skeleton';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent, CardFooter } from '@/components/ui/card';
 import { generateNextPatientId, deletePatient } from '@/actions/patient.actions';
 import { useToast } from '@/hooks/use-toast';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
@@ -22,7 +20,6 @@ import { cn } from '@/lib/utils';
 import { Badge } from '@/components/ui/badge';
 import DeleteConfirmationDialog from '@/components/Patients/Profile/DeleteConfirmationDialog';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu';
-
 
 const PatientCardSkeleton = () => (
     <Card className="p-4">
@@ -43,9 +40,9 @@ const PatientCardSkeleton = () => (
 const PatientsPage = () => {
   const [isFormOpen, setIsFormOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
+  const [selectedFilters, setSelectedFilters] = useState([]);
   
-  const [patients, setPatients] = useState<PatientData[]>([]);
+  const [patients, setPatients] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
@@ -53,17 +50,15 @@ const PatientsPage = () => {
 
   const [isGeneratingId, setIsGeneratingId] = useState(false);
   const { toast } = useToast();
-  const [view, setView] = useState<'grid' | 'list'>('grid');
+  const [view, setView] = useState('grid');
   const router = useRouter();
 
-  const [patientToDelete, setPatientToDelete] = useState<PatientData | null>(null);
+  const [patientToDelete, setPatientToDelete] = useState(null);
 
   const fetchPatients = useCallback(async (page = 1) => {
     setIsLoading(true);
-    // This is a simple way to parse filters. A more robust solution
-    // would handle different filter types (age range, etc.)
     const genderFilter = selectedFilters.find(f => ['Male', 'Female', 'Other'].includes(f));
-    const ageFilter = selectedFilters.find(f => !['Male', 'Female', 'Other'].includes(f)); // Assuming anything else is an age filter for now
+    const ageFilter = selectedFilters.find(f => !['Male', 'Female', 'Other'].includes(f));
 
     const result = await getPatients(page, 10, { gender: genderFilter, age: ageFilter });
     
@@ -82,8 +77,8 @@ const PatientsPage = () => {
     fetchPatients(currentPage);
   }, [fetchPatients, currentPage]);
   
-  const handleNewVisit = (e: React.MouseEvent, patient: PatientData) => {
-    e.stopPropagation(); // Prevent card/row click event from firing
+  const handleNewVisit = (e, patient) => {
+    e.stopPropagation();
     toast({
       title: "New visit created",
       description: `Starting new consultation for ${patient.name}`,
@@ -99,45 +94,30 @@ const PatientsPage = () => {
     router.push(`/prescriptions?${params.toString()}`);
   };
 
-  const handleRowClick = (patientId: number) => {
+  const handleRowClick = (patientId) => {
     router.push(`/patients/${patientId}`);
   };
 
   const handlePatientCreated = () => {
     setIsFormOpen(false);
-    fetchPatients(); // Re-fetch patients to include the new one
+    fetchPatients();
   }
   
   const handleAddNewPatient = async () => {
     setIsFormOpen(true);
   };
 
-  const openDeleteDialog = (patientId: number) => {
+  const openDeleteDialog = (patientId) => {
     const patient = patients.find(p => p.id === patientId);
     if(patient) setPatientToDelete(patient);
   };
   
   const handleDeleteConfirm = async () => {
     if (!patientToDelete) return;
-    // const result = await deletePatient(patientToDelete.id);
-    // if (result.success) {
-    //   toast({
-    //     title: "Patient Deleted",
-    //     description: `${patientToDelete.name} has been permanently deleted.`,
-    //   });
-    //   fetchPatients(); // Refresh the list
-    // } else {
-    //   toast({
-    //     title: "Deletion Failed",
-    //     description: result.error,
-    //     variant: "destructive",
-    //   });
-    // }
     setPatientToDelete(null);
   };
 
   const filteredPatients = patients.filter(patient => {
-    console.log("ddd",patient)
     const searchMatch = patient.name.toLowerCase().includes(searchQuery.toLowerCase());
     return searchMatch;
   });
@@ -241,7 +221,6 @@ const PatientsPage = () => {
                         <TableBody>
                             {filteredPatients.map(patient => (
                                 <TableRow key={patient.id} onClick={() => handleRowClick(patient.id)} className="cursor-pointer">
-                  
                                     <TableCell className="font-mono text-xs">{patient.ouid}</TableCell>
                                     <TableCell className="font-medium">{patient.name}</TableCell>
                                     <TableCell>

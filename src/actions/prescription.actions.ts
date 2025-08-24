@@ -4,7 +4,7 @@
 import connectToDatabase from "@/lib/db/mongoose";
 import Prescription from "@/models/prescription.model";
 import Visit from "@/models/visit.model";
-import { getSession } from "@/utils/common/authHelper";
+// import { getSession } from "@/utils/common/authHelper";
 
 interface PrescriptionData {
   patientId: string;
@@ -19,7 +19,8 @@ interface PrescriptionData {
 
 export async function createPrescriptionAndVisit(data: PrescriptionData) {
   try {
-    const session = await getSession();
+    // const session = await getSession();
+    const session = null; // Placeholder for session retrieval logic
     if (!session?.userDetail?._id) {
       return { success: false, error: 'User not authenticated.' };
     }

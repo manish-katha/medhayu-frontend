@@ -7,7 +7,7 @@ import { revalidatePath } from 'next/cache';
 import Patient from '@/models/patient.model';
 import connectToDatabase from '@/lib/db/mongoose';
 import type { PatientData } from '@/types/patient';
-import { getSession } from '@/utils/common/authHelper';
+import { getCredentials } from '@/utils/common/authHelper';
 
 const patientFormSchema = z.object({
   name: z.string().min(1, 'Name is required'),
@@ -37,7 +37,7 @@ export async function createPatient(
   }
   
   try {
-    const session = await getSession();
+    const session = await getCredentials();
     if (!session?.userDetail?._id) {
         return { success: false, error: 'User not authenticated.' };
     }

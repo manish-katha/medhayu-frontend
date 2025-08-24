@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button';
 import { useAuth } from "@/contexts/AuthContext";
 import { useToast } from '@/hooks/use-toast';
 import { login } from '@/actions/signin.action';  // ⬅️ your API call (pure client-side)
-import { registerUser } from '@/actions/auth.actions'; // if you keep API-based register
+import { registerUser } from '@/actions/signin.action'; // if you keep API-based register
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser, faLock, faEnvelope, faPhone, faGraduationCap, faStethoscope, faBuilding, faBriefcase, faKey } from '@fortawesome/free-solid-svg-icons';
 import { faFacebookF, faTwitter, faGoogle, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
@@ -19,6 +19,7 @@ import { Input } from '@/components/ui/input';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Textarea } from '@/components/ui/textarea';
+import { setSession } from '@/utils/common/authHelper';
 
 function SubmitButton({ label, pending }) {
   return (
@@ -80,6 +81,8 @@ const MultiStepSignUpForm = () => {
     isBams: false, practiceCenterName: '', futurePlan: '',
     password: '', confirmPassword: ''
   });
+  const router = useRouter();
+  const { login: saveAuth } = useAuth();
 
   const { toast } = useToast();
 
@@ -88,12 +91,17 @@ const MultiStepSignUpForm = () => {
     try {
       const res = await registerUser(formData);
       if (res.success) {
-        toast({ title: 'Registration Successful!', description: 'You can now log in.' });
+        // toast({ title: 'Registration Successful!', description: 'You can now log in.' });
+        saveAuth(res.token, res.data);
+         setSession(res.token);
+        router.push('/medhayu/profile');
       } else {
         toast({ title: 'Registration Failed', description: res.error, variant: 'destructive' });
+        router.push('/medhayu/profile');
       }
     } catch (err) {
-      toast({ title: 'Error', description: err.message, variant: 'destructive' });
+      console.log("login error",err)
+      // toast({ title: 'Error', description: err.message, variant: 'destructive' });
     }
   };
 
@@ -137,20 +145,22 @@ export default function LoginPage() {
     const password = e.target.password.value;
 
     try {
-      const res = await login(email, password); // ⬅️ your API call
+      const res = await login(email, password);
+      console.log("res",res) // ⬅️ your API call
       if (res.success) {
-        toast({ title: 'Login Successful', description: 'Welcome back!' });
+        // toast({ title: 'Login Successful', description: 'Welcome back!' });
+        setSession(res.token);
         saveAuth(res.token, res.data);
         if (res.data.isDoctor) {
-          router.push('/dashboard');
+          // router.push('/dashboard');
+          router.push('/medhayu/profile');
         } else {
           router.push('/medhayu/profile');
         }
-      } else {
-        toast({ title: 'Login Failed', description: res.error, variant: 'destructive' });
       }
     } catch (err) {
-      toast({ title: 'Error', description: err.message, variant: 'destructive' });
+      console.log("login error",err)
+      // toast({ title: 'Error', description: err.message, variant: 'destructive' });
     } finally {
       setLoading(false);
     }

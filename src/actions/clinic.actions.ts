@@ -2,7 +2,7 @@
 'use server';
 
 import type { Clinic } from '@/types/user';
-import { getSession } from '@/utils/common/authHelper';
+// import { getSession } from '@/utils/common/authHelper';
 import connectToDatabase from '@/lib/db/mongoose';
 import ClinicModel from '@/models/clinic.model';
 
@@ -15,8 +15,10 @@ interface GetClinicsResponse {
 
 // This action should be called from the client to get clinics for the logged-in user.
 export const getClinicsForUser = async (): Promise<GetClinicsResponse> => {
-    const session = await getSession(); 
-    const userId = session?.userDetail?._id; 
+    // const session = await getSession(); 
+    const session = null; // Replace this with actual session retrieval logic
+    // const userId = session?.userDetail?._id; 
+    const userId = "68a97084ef976213d4548708"; // Replace this with actual user ID from session
     
     if (!userId) {
         return { success: false, error: "User not authenticated." };

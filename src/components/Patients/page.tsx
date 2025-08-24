@@ -10,7 +10,7 @@ import PatientCard from '@/components/Patients/PatientCard';
 import PatientForm from '@/components/Patients/PatientForm';
 import PatientFilters from '@/components/Patients/PatientFilters';
 import { EmptyState } from '@/components/ui/empty-state';
-import { getPatients } from '@/actions/patient.actions';
+import { getPatients } from '@/actions/patient.action';
 import type { PatientData } from '@/types/patient';
 import { Skeleton } from '@/components/ui/skeleton';
 import { Card, CardContent } from '@/components/ui/card';
