@@ -8,5 +8,6 @@ export const Urls = {
   userRegister:path("/users/add"),
   createPatient:path("/patient/create-patient"),
   getPatients:path("/patient/get-patient"),
+  getPatient:path("/patient/get-patient-byid"),
   getClinics:path("/clinic/get-clinic"),
 }

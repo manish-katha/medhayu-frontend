@@ -20,7 +20,7 @@ export const createPatient = async (patientData) => {
     if (response.status === true) {
       return {
         success: true,
-        data: response?.response?.data?.patient, 
+        data: response?.response?.data, 
       };
     } else {
       throw new Error(response?.response?.message || "Failed to create patient");
@@ -90,25 +90,25 @@ export const getPatients = async (
 /**
  * Get patient details by ID
  */
-// export const getPatient = async (patientId) => {
-//   try {
-//     const response = await apiRequest({
-//       endUrl: Urls.getPatients + `/${patientId}`,
-//       method: "GET",
-//       token: true,
-//       showMsg: false,
-//     });
+export const getPatient = async (patientId) => {
+  try {
+    const response = await apiRequest({
+      endUrl: Urls.getPatient + `/${patientId}`,
+      method: "GET",
+      token: true,
+      showMsg: false,
+    });
 
-//     if (response.status === true) {
-//       return { success: true, data: response?.response?.data };
-//     } else {
-//       throw new Error(response?.response?.message || "Failed to fetch patient");
-//     }
-//   } catch (error) {
-//     console.error("Error in getPatient:", error);
-//     return { success: false, error: error.message };
-//   }
-// };
+    if (response.status === true) {
+      return { success: true, data: response?.response?.data };
+    } else {
+      throw new Error(response?.response?.message || "Failed to fetch patient");
+    }
+  } catch (error) {
+    console.error("Error in getPatient:", error);
+    return { success: false, error: error.message };
+  }
+};
 
 /**
  * Update patient details

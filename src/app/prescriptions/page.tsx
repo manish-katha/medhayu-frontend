@@ -1,6 +1,5 @@
 
 'use client';
-
 import React, { Suspense, useState, useEffect } from 'react';
 import PrescriptionHeader from '@/components/prescription/PrescriptionHeader';
 import PrescriptionTabs from '@/components/prescription/PrescriptionTabs';

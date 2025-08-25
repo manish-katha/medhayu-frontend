@@ -131,7 +131,7 @@ const PatientForm = ({
     try {
       const dataToSubmit = { ...formData, oid, clinicId: selectedClinicId };
       const result = await createPatient(dataToSubmit);
-
+      console.log(result);
       if (result.success && result.data) {
         toast({ title: 'Patient Created', description: `Patient ${result.data?.name} has been created.` });
         if (onSubmitSuccess) {
