@@ -47,6 +47,7 @@ function PrescriptionPageContent() {
         setIsGeneratingId(true);
         try {
             const ids = await generateNextPatientId();
+            console.log(ids)
             setNewPatientIds(ids);
             setIsPatientFormOpen(true);
         } catch (error) {

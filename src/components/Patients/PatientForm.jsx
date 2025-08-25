@@ -24,6 +24,7 @@ import { getClinicsForUser } from '@/actions/clinic.action';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 
 function SubmitButton() {
+  
   const { pending } = useFormStatus();
   return (
     <Button

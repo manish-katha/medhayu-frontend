@@ -1,7 +1,8 @@
-"use client"
-import React, { use } from 'react';
-import { notFound } from 'next/navigation';
-import PatientProfile from '@/components/Patients/Profile/PatientProfile';
+"use client";
+
+import React from "react";
+import { notFound } from "next/navigation";
+import PatientProfile from "@/components/Patients/Profile/PatientProfile";
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -9,22 +10,20 @@ import {
   BreadcrumbList,
   BreadcrumbPage,
   BreadcrumbSeparator,
-} from '@/components/ui/breadcrumb';
-import { getPatient } from '@/actions/patient.action';
+} from "@/components/ui/breadcrumb";
+import { getPatient } from "@/actions/patient.action";
 
-const PatientProfilePage = async (props) => {
-  const params = use(props.params);
-  console.log("params",params)
-  // Fetch the patient using the server action that connects to MongoDB
+const PatientProfilePage = async ({ params }) => {
+  // ✅ no need for `use(props.params)` (that's for React experimental API)
   const patient = await getPatient(params.id);
-  console.log("patient",patient)
-  if (!patient) 
-    {
+
+  if (!patient) {
     notFound();
-    }
+  }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 p-6">
+      {/* Breadcrumbs */}
       <Breadcrumb>
         <BreadcrumbList>
           <BreadcrumbItem>
@@ -36,7 +35,9 @@ const PatientProfilePage = async (props) => {
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
-      <PatientProfile patientId={patient.id} />
+
+      {/* Patient Profile Component */}
+      <PatientProfile patientId={params.id} />
     </div>
   );
 };

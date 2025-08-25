@@ -26,7 +26,6 @@ const AppLayout = ({ children }) => {
   const isPublicPage = publicPaths.includes(pathname);
 
   useEffect(() => {
-    console.log("isAuthenticated isPublicPage user",isAuthenticated,isPublicPage,user)
     if (isAuthenticated && isPublicPage) {
       // console.log(user)
       if (user?.isDoctor) {

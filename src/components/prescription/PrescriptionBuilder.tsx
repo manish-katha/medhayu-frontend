@@ -58,6 +58,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '../ui/tabs';
 import SopTemplates from './SopTemplates';
 import { Switch } from '@/components/ui/switch';
 import { createPrescriptionAndVisit } from '@/actions/prescription.actions';
+import { createPrescription } from '@/actions/prescription.action';
 
 
 export interface Medicine {
@@ -374,9 +375,9 @@ const PrescriptionBuilder: React.FC<PrescriptionBuilderProps> = ({
       setShowGeneratedPrescription(true);
     } else {
         setIsSubmitting(true);
-        const result = await createPrescriptionAndVisit({
+        const result = await createPrescription({
             patientId: selectedPatient.id,
-            clinicId: '689d65b7ae23724801cc6a4b', // This needs to be dynamic
+            clinicId: '68aacde019d17f0ffd6db0e4', // This needs to be dynamic
             medicines,
             diagnosticTests,
             specialInstructions,
@@ -384,6 +385,7 @@ const PrescriptionBuilder: React.FC<PrescriptionBuilderProps> = ({
             nextVisitDate,
             trackProgress,
         });
+        console.log(result);
         setIsSubmitting(false);
 
         if(result.success) {

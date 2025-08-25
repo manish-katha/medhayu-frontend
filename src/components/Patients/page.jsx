@@ -11,7 +11,7 @@ import { EmptyState } from '@/components/ui/empty-state';
 import { getPatients } from '@/actions/patient.action';
 import { Skeleton } from '@/components/ui/skeleton';
 import { Card, CardContent, CardFooter } from '@/components/ui/card';
-import { generateNextPatientId, deletePatient } from '@/actions/patient.actions';
+import {  deletePatient } from '@/actions/patient.action';
 import { useToast } from '@/hooks/use-toast';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { useRouter } from 'next/navigation';
@@ -93,7 +93,10 @@ const PatientsPage = () => {
     router.push(`/prescriptions?${params.toString()}`);
   };
 
-  const handleRowClick = (patientId) => {
+  const handleRowClick = (patientId,e) => {
+  e.stopPropagation(); // ✅ prevent click bubbling
+    e.preventDefault();
+    console.log("handle Row click ")
     router.push(`/patients/${patientId}`);
   };
 
@@ -110,7 +113,10 @@ const PatientsPage = () => {
     const patient = patients.find(p => p.id === patientId);
     if (patient) setPatientToDelete(patient);
   };
-
+const openEditForm=(patientId)=>{
+  console.log("openEditForm",patientId)
+  router.push(`/patients/edit/${patientId}`)
+}
   const handleDeleteConfirm = async () => {
     if (!patientToDelete) return;
     const result = await deletePatient(patientToDelete.id);
@@ -213,7 +219,9 @@ const PatientsPage = () => {
                 <PatientCard
                   key={patient.id}
                   {...patient}
-                  onDelete={() => openDeleteDialog(patient.id)}
+        
+                  onEdit={()=>openEditForm(patient.id)}
+                  onDelete={()=> openDeleteDialog(patient.id)}
                 />
               ))}
             </div>
@@ -232,7 +240,7 @@ const PatientsPage = () => {
                   </TableHeader>
                   <TableBody>
                     {filteredPatients.map(patient => (
-                      <TableRow key={patient.id} onClick={() => handleRowClick(patient.id)} className="cursor-pointer">
+                      <TableRow key={patient.id} onClick={(e) => handleRowClick(patient.id)} className="cursor-pointer">
                         <TableCell className="font-mono text-xs">{patient.ouid}</TableCell>
                         <TableCell className="font-medium">{patient.name}</TableCell>
                         <TableCell>

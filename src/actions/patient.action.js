@@ -113,47 +113,47 @@ export const getPatient = async (patientId) => {
 /**
  * Update patient details
  */
-// export const updatePatient = async (patientId, updatedData) => {
-//   try {
-//     const response = await apiRequest({
-//       endUrl: Urls.updatePatient + `/${patientId}`,
-//       method: "PUT",
-//       body: { ...updatedData },
-//       headerType: "json",
-//       token: true,
-//       showMsg: true,
-//     });
+export const updatePatient = async (patientId, updatedData) => {
+  try {
+    const response = await apiRequest({
+      endUrl: Urls.updatePatient + `/${patientId}`,
+      method: "PUT",
+      body: { ...updatedData },
+      headerType: "json",
+      token: true,
+      showMsg: true,
+    });
 
-//     if (response.status === true) {
-//       return { success: true, data: response?.response?.data };
-//     } else {
-//       throw new Error(response?.response?.message || "Failed to update patient");
-//     }
-//   } catch (error) {
-//     console.error("Error in updatePatient:", error);
-//     return { success: false, error: error.message };
-//   }
-// };
+    if (response.status === true) {
+      return { success: true, data: response?.response?.data };
+    } else {
+      throw new Error(response?.response?.message || "Failed to update patient");
+    }
+  } catch (error) {
+    console.error("Error in updatePatient:", error);
+    return { success: false, error: error.message };
+  }
+};
 
 /**
  * Delete a patient by ID
  */
-// export const deletePatient = async (patientId) => {
-//   try {
-//     const response = await apiRequest({
-//       endUrl: Urls.deletePatient + `/${patientId}`,
-//       method: "DELETE",
-//       token: true,
-//       showMsg: true,
-//     });
+export const deletePatient = async (patientId) => {
+  try {
+    const response = await apiRequest({
+      endUrl: Urls.deletePatient + `/${patientId}`,
+      method: "DELETE",
+      token: true,
+      showMsg: true,
+    });
 
-//     if (response.status === true) {
-//       return { success: true, data: response?.response?.data };
-//     } else {
-//       throw new Error(response?.response?.message || "Failed to delete patient");
-//     }
-//   } catch (error) {
-//     console.error("Error in deletePatient:", error);
-//     return { success: false, error: error.message };
-//   }
-// };
+    if (response.status === true) {
+      return { success: true, data: response?.response?.data };
+    } else {
+      throw new Error(response?.response?.message || "Failed to delete patient");
+    }
+  } catch (error) {
+    console.error("Error in deletePatient:", error);
+    return { success: false, error: error.message };
+  }
+};
